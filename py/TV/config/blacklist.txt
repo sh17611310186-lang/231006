@@ -100,3 +100,4 @@ ls.qingting.fm:443
 russian-livews.cgtn.com:80
 gmxw.7766.org:808
 fjnhdb.chinashadt.com:2036
+live.ottiptv.cc:443
