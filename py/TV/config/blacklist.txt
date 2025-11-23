@@ -101,3 +101,7 @@ russian-livews.cgtn.com:80
 gmxw.7766.org:808
 fjnhdb.chinashadt.com:2036
 live.ottiptv.cc:443
+satellitepull.cnr.cn:443
+ls.qingting.fm:80
+play.jinnantv.top:80
+brtv-radiolive.rbc.cn:443
