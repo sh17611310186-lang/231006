@@ -105,3 +105,5 @@ satellitepull.cnr.cn:443
 ls.qingting.fm:80
 play.jinnantv.top:80
 brtv-radiolive.rbc.cn:443
+39.107.120.164:8080
+223.145.224.76:8000
