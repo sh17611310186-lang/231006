@@ -113,3 +113,5 @@ brtv-radiolive.rbc.cn:443
 tvpull.hmgbtv.com:443
 101.73.66.2:2380
 kdfile.ganzitv.com:80
+www.wxhcgbds.com:8081
+www.cdnstv.com:6398
