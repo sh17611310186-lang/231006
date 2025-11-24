@@ -111,3 +111,5 @@ brtv-radiolive.rbc.cn:443
 183.214.23.207:2380
 1.180.207.70:2380
 tvpull.hmgbtv.com:443
+101.73.66.2:2380
+kdfile.ganzitv.com:80
