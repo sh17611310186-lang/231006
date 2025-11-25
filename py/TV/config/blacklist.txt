@@ -116,3 +116,4 @@ kdfile.ganzitv.com:80
 www.wxhcgbds.com:8081
 www.cdnstv.com:6398
 kakaxi-1.asia:443
+122.53.222.9:9981
