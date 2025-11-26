@@ -145,3 +145,4 @@ vallest.uk:80
 61.184.46.85:9901
 gfr.x3322.net:9901
 live.jinchuanrmt.com:90
+migu.188766.xyz:443
