@@ -146,3 +146,5 @@ vallest.uk:80
 gfr.x3322.net:9901
 live.jinchuanrmt.com:90
 migu.188766.xyz:443
+shyd.695847.xyz:443
+m3u8channel.yunxya.com:443
