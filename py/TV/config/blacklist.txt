@@ -151,3 +151,6 @@ m3u8channel.yunxya.com:443
 218.60.86.8:2380
 1.58.246.115:4001
 mao.ffmking888.dpdns.org:443
+183.249.78.44:10800
+13937899.xyz:35455
+live.shaoxing.com.cn:80
