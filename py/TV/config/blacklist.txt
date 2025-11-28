@@ -154,3 +154,4 @@ mao.ffmking888.dpdns.org:443
 183.249.78.44:10800
 13937899.xyz:35455
 live.shaoxing.com.cn:80
+file.loulannews.cn:80
