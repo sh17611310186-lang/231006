@@ -164,3 +164,5 @@ gmxw.7766.org:808
 www.goodiptv.club:443
 153.0.171.163:9901
 liveout.xntv.tv:443
+58.17.116.69:9903
+brtv-radiolive.rbc.cn:443
