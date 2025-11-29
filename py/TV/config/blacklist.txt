@@ -163,3 +163,4 @@ gmxw.7766.org:808
 1.24.39.180:9003
 www.goodiptv.club:443
 153.0.171.163:9901
+liveout.xntv.tv:443
