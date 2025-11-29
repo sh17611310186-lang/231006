@@ -168,3 +168,5 @@ liveout.xntv.tv:443
 brtv-radiolive.rbc.cn:443
 183.220.107.138:4022
 568slnjf.live.sxmty.com:443
+120.76.248.139:80
+live.spccmc.com:90
