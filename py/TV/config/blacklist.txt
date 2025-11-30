@@ -170,3 +170,6 @@ brtv-radiolive.rbc.cn:443
 568slnjf.live.sxmty.com:443
 120.76.248.139:80
 live.spccmc.com:90
+edgeone.passwdword.xyz:443
+l2fpdktp.live.sxmty.com:443
+lbyzztfe.live.sxmty.com:80
