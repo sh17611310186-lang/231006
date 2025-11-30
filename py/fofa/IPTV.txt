@@ -1,7 +1,7 @@
-更新时间: 2025-11-30 18:20:54（北京时间）
+更新时间: 2025-11-30 23:20:06（北京时间）
 
 更新时间,#genre#
-2025-11-30 18:20:54,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
+2025-11-30 23:20:06,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
 
 央视频道,#genre#
 CCTV1,http://60.168.229.192:2000/rtp/238.1.78.166:7200$安徽电信
