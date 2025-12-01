@@ -175,3 +175,4 @@ l2fpdktp.live.sxmty.com:443
 lbyzztfe.live.sxmty.com:80
 221.13.235.60:9901
 gdcucc.v1.mk:443
+live.chinacert.cftest5.cn:443
