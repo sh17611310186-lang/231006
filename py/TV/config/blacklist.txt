@@ -182,3 +182,4 @@ utv1.hqtvzb.com:9999
 1.94.31.214:80
 223.241.247.214:9901
 antvlive.ab5c6921.cdnviet.com:80
+tvpull.hmgbtv.com:443
