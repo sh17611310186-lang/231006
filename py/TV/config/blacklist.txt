@@ -185,3 +185,5 @@ antvlive.ab5c6921.cdnviet.com:80
 tvpull.hmgbtv.com:443
 e2.woc.iiiya.cn:28888
 usiptv.esnad.dpdns.org:443
+61.216.67.119:1935
+5ddce30eb4b55.streamlock.net:443
