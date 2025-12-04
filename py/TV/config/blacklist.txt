@@ -188,3 +188,5 @@ usiptv.esnad.dpdns.org:443
 61.216.67.119:1935
 5ddce30eb4b55.streamlock.net:443
 183.238.86.52:4022
+lmt.scqstv.com:80
+183.230.184.51:65500
