@@ -190,3 +190,4 @@ usiptv.esnad.dpdns.org:443
 183.238.86.52:4022
 lmt.scqstv.com:80
 183.230.184.51:65500
+live.wcetv.com:443
