@@ -203,3 +203,5 @@ p2.bdstatic.com:443
 tntgjhjb.live.sxmty.com:443
 60.16.0.216:5757
 125.42.148.217:9901
+113.25.252.226:9901
+file.ysxtv.cn:443
