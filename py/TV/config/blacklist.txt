@@ -208,3 +208,5 @@ file.ysxtv.cn:443
 100.061833.xyz:443
 221.13.235.49:9901
 iptv.vip-tptv.xyz:443
+play.jinnantv.top:80
+111.61.236.247:9081
