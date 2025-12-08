@@ -207,3 +207,4 @@ tntgjhjb.live.sxmty.com:443
 file.ysxtv.cn:443
 100.061833.xyz:443
 221.13.235.49:9901
+iptv.vip-tptv.xyz:443
