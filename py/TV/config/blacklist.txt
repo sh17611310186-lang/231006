@@ -213,3 +213,4 @@ play.jinnantv.top:80
 video.epaper.pybtv.cn:8080
 xxwx.yoesun.com:80
 tvdrs.wsrtv.com.cn:8100
+ggpagerl.live.sxmty.com:80
