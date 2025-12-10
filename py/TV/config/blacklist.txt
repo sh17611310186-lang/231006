@@ -217,3 +217,4 @@ ggpagerl.live.sxmty.com:80
 222.179.155.21:1935
 xtvantsc.xyz:80
 125.42.148.146:9901
+pa.kuangdeng.top:8081
