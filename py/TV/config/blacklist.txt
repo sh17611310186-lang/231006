@@ -218,3 +218,4 @@ ggpagerl.live.sxmty.com:80
 xtvantsc.xyz:80
 125.42.148.146:9901
 pa.kuangdeng.top:8081
+gcalic.v.myalicdn.com:443
