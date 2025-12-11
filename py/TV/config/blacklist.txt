@@ -220,3 +220,4 @@ xtvantsc.xyz:80
 pa.kuangdeng.top:8081
 gcalic.v.myalicdn.com:443
 183.64.174.171:40123
+huanqiuzhibo.cn:80
