@@ -223,3 +223,8 @@ gcalic.v.myalicdn.com:443
 huanqiuzhibo.cn:80
 live.njgdmm.com:80
 218.17.33.178:53290
+ls.qingting.fm:80
+satellitepull.cnr.cn:80
+222.179.42.129:8181
+101.66.194.31:9901
+218.84.12.186:8001
