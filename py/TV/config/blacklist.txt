@@ -407,3 +407,5 @@ satellitepull.cnr.cn:80
 svip.high24-playback.com:443
 221.13.235.104:9901
 101.66.198.103:9901
+play.scrstv.com.cn:443
+zbbf2.ahbztv.com:80
