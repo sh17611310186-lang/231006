@@ -6,7 +6,7 @@ import concurrent.futures
 from datetime import datetime
 
 # ===============================
-# 配置区
+# 配置区https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiI%3D
 FOFA_URLS = {
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiI%3D": "ip.txt",
 }
@@ -83,6 +83,7 @@ def first_stage():
         print(f"📡 正在爬取 {filename} ...")
         try:
             r = requests.get(url, headers=HEADERS, timeout=15)
+            #print(r.text)
             # 改进的正则表达式匹配
             urls_all = re.findall(r'<a href="http://(.*?)"', r.text)
             # 过滤出有效的IP:端口格式
