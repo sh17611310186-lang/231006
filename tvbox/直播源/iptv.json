@@ -2,13 +2,6 @@
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/gao/jar/XYQ.jar",
     "lives": [
-                {
-          "name": "测试组播源",
-          "type":"0",
-          "pass": true,
-          "url": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/测试/IPTV/all_channels.m3u"
-
-        },
         {
           "name": "安徽组播",
           "type":"0",
@@ -55,7 +48,7 @@
           "name": "shiHang酒店源",
           "type":"0",
           "pass": true,
-          "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/Hotel/hotel.txt",
+          "url": "https://gh-proxy.org/https://github.com/sh17611310186-lang/231006/blob/main/py/Hotel/hotel.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -67,6 +60,13 @@
             ",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+          "name": "测试组播源",
+          "type":"0",
+          "pass": true,
+          "url": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/测试/IPTV/all_channels.m3u"
+
         }
     ],
   "sites": [
