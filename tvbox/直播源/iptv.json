@@ -51,6 +51,14 @@
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, 
 
+           {
+          "name": "shiHang酒店源",
+          "type":"0",
+          "pass": true,
+          "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/Hotel/hotel.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
           "name": "优质源",
           "type":"0",
