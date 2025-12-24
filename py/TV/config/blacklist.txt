@@ -414,3 +414,5 @@ brtv-radiolive.rbc.cn:443
 101.66.198.198:9901
 hlscdn.liangtv.cn:443
 play-sh13.quklive.com:80
+182.114.48.126:9901
+101.66.198.44:9901
