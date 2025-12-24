@@ -31,8 +31,8 @@ jobs:
       
       - name: Configure Git
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "sh17611310186@mail.com"
+          git config --local user.name "sh17611310186-lang"
           git config pull.rebase false
       
       - name: Run hotel.py
