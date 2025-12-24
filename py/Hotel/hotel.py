@@ -303,7 +303,7 @@ async def test_stream_speed_accurate(session, url, semaphore, test_id=0):
                         return 0
                     
                     # 分段下载，每段记录时间
-                    chunk_size = 8192
+                    chunk_size = 102400
                     download_times = []
                     chunk_start = time.time()
                     
