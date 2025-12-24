@@ -230,7 +230,7 @@ async def generate_urls(url):
 
     json_paths = [
         "/iptv/live/1000.json?key=txiptv",
-        "/iptv/live/1001.json?key=txiptv",
+        "/ZHGXTV/Public/json/live_interface.txt",
         "/iptv/live/2000.json?key=txiptv",
         "/iptv/live/2001.json?key=txiptv"
     ]
@@ -303,7 +303,7 @@ async def test_stream_speed_accurate(session, url, semaphore, test_id=0):
                         return 0
                     
                     # 分段下载，每段记录时间
-                    chunk_size = 8192
+                    chunk_size = 102400
                     download_times = []
                     chunk_start = time.time()
                     
