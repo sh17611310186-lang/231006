@@ -33,6 +33,10 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "ggBond-Action"
           git add .
+          if ! git diff --cached --quiet; then
           git commit -m "更新ip"
-          # git commit *.m3u -m "Add generated file"
-          git push --force origin main        
+          git push origin main
+          echo "✅ 提交并推送成功。"
+          else
+          echo "ℹ️ 没有检测到任何文件变更，跳过提交。"
+          fi        
