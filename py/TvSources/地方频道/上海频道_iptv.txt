@@ -1,10 +1,10 @@
 上海频道,#genre#
-上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=7cac2dc6ab1ca19e7e522c45037665ef95713316217416a3c95a1320d3c3723acbde17c53aed7b119dddba350471f17b2263da3e899ff430e542a7873b0212760a498cf8ed163226437ef8aac9da5558de&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=e65af5c9e6a3c27c010964ce00022dd258a911e52b8a695e60e3f4be5bc8eab52cc61ce9280e63e1401f74b2bbbd3f6d6fcfcac19024824a3b0a043c0a268893fe93fba4403d29c345203c1fe7dc28ad99&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 第一财经,http://ls.qingting.fm/live/276.m3u8
+上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=7cac2dc6ab1ca19e7e522c45037665ef95713316217416a3c95a1320d3c3723acbde17c53aed7b119dddba350471f17b2263da3e899ff430e542a7873b0212760a498cf8ed163226437ef8aac9da5558de&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=e65af5c9e6a3c27c010964ce00022dd258a911e52b8a695e60e3f4be5bc8eab52cc61ce9280e63e1401f74b2bbbd3f6d6fcfcac19024824a3b0a043c0a268893fe93fba4403d29c345203c1fe7dc28ad99&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
