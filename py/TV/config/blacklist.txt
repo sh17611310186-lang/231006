@@ -425,3 +425,9 @@ tvpull.hmgbtv.com:443
 m.m3u8.wifiwx.com:80
 182.114.48.228:9901
 other.ottiptv.cc:443
+101.66.194.123:9901
+tvb.go-iptv.ggff.net:443
+175.8.28.207:9999
+cdn3.163189.xyz:443
+101.66.199.99:9901
+edgeone.passwdword.xyz:443
