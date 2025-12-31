@@ -3525,3 +3525,4 @@ bcovlive-a.akamaihd.net
 123.145.26.13
 123.145.26.170
 58.51.111.46
+pull-hsbj.vzan.com
