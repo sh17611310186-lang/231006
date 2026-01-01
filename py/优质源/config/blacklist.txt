@@ -3526,3 +3526,5 @@ bcovlive-a.akamaihd.net
 123.145.26.170
 58.51.111.46
 pull-hsbj.vzan.com
+diyp.store
+156.238.248.80
