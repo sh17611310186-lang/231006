@@ -523,3 +523,4 @@ l.cztvcloud.com:80
 101.66.199.90:9901
 hczn.x3322.net:9902
 221.13.235.234:9901
+free.cnlive.club:80
