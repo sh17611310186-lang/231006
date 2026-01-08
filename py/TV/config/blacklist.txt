@@ -586,3 +586,7 @@ epg.pw:443
 1.197.249.198:9901
 60.222.246.220:19433
 smt.veryfast.filegear-sg.me:80
+101.66.194.112:9901
+fmbox.cc:80
+58.39.190.143:35455
+m3u8channel.ganzitv.com:443
