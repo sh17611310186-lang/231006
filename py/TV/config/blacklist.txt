@@ -590,3 +590,6 @@ smt.veryfast.filegear-sg.me:80
 fmbox.cc:80
 58.39.190.143:35455
 m3u8channel.ganzitv.com:443
+live.kanwz.net:80
+101.66.199.25:9901
+101.66.199.23:9901
