@@ -616,3 +616,5 @@ piccpndks.v.kcdnvip.com:443
 101.66.198.138:9901
 183.64.174.171:40123
 www.ahtv.cn:443
+kakaxi.indevs.in:80
+125.42.150.236:9901
