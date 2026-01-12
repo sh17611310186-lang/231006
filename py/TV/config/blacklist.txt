@@ -628,3 +628,4 @@ play-qukan.cztv.com:443
 pili-live-hls-sjxgz2024.sobeylive.com:443
 live1.jzjsnm.cn:80
 113.25.252.226:9901
+125.42.150.60:9901
