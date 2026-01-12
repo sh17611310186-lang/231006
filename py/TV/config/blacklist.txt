@@ -625,3 +625,6 @@ kakaxi.indevs.in:80
 play-qukan.cztv.com:443
 1.197.249.132:9901
 38.75.136.137:98
+pili-live-hls-sjxgz2024.sobeylive.com:443
+live1.jzjsnm.cn:80
+113.25.252.226:9901
