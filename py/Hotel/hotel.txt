@@ -1,25 +1,25 @@
 更新时间,#genre#
-2026-01-13 11:04:16,#
+2026-01-13 12:09:29,#
 
 央视频道,#genre#
-CCTV1,http://101.66.199.82:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://101.66.199.177:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1,http://218.92.37.174:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1,http://112.234.23.204:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://101.66.199.82:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://125.42.151.151:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://121.19.134.144:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://125.42.151.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://121.19.134.144:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://112.234.23.204:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://120.70.60.179:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://110.80.17.38:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://111.26.72.89:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://119.129.172.177:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://111.221.137.152:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://113.15.109.216:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://124.228.160.14:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://121.19.134.243:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://36.40.237.57:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://113.25.252.226:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://120.70.60.179:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -199,7 +199,6 @@ CETV4,http://101.18.24.3:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authi
 陕西卫视,http://111.221.137.152:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
 农林卫视,http://112.132.10.54:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://112.234.23.204:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://112.132.10.54:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://218.92.37.174:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -517,14 +516,11 @@ qazaqstantv,http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playliv
 涿州新闻,http://121.19.134.243:808/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳少儿,http://111.221.137.152:44330/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北公共,http://59.173.55.57:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北公共,http://59.173.55.254:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视高清,http://61.184.46.85:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视高清,http://101.18.24.3:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视高清,http://49.234.31.101:7033/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://59.173.55.57:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://59.173.55.254:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北综合,http://59.173.55.57:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北综合,http://59.173.55.254:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南公共,http://124.228.160.14:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://124.228.160.14:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://124.228.160.14:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -552,10 +548,6 @@ qazaqstantv,http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playliv
 金鹰纪实高清,http://101.18.24.3:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实高清,http://49.234.31.101:7033/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实高清,http://121.19.134.144:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西一套,http://124.116.183.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西三套,http://124.116.183.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西二套,http://124.116.183.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西四套,http://124.116.183.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西都市青春,http://36.40.237.57:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西银铃,http://36.40.237.57:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 靓妆,http://218.87.237.105:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
