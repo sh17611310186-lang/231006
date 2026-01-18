@@ -664,3 +664,4 @@ live.nctv.top:80
 122.152.202.33:80
 ldocctvwbcdtxy.liveplay.myqcloud.com:443
 dxtx.hntv.tv:443
+tvlist.top:80
