@@ -93,3 +93,8 @@ m3u8.channel.dzsm.com
 file.ysxtv.cn
 other.ottiptv.cc
 live.ynurl.com
+1.24.39.180
+223.105.252.8
+traffic.jbh.tjbh.com
+113.218.204.144
+218.13.170.98
