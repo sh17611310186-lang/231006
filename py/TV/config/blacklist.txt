@@ -265,3 +265,13 @@ video.epaper.pybtv.cn:8080
 182.114.48.108:9901
 mytv.cdn.com.mp:80
 www.ahtv.cn:443
+123.160.235.132:9901
+grandprix2023.asuscomm.com:8892
+182.114.48.33:9901
+175.155.106.72:89
+test1.live.sdetv.com.cn:443
+zbbf2.ahbztv.com:80
+49.234.31.101:7040
+112.234.23.204:9901
+ali-m-l.cztv.com:443
+120.211.62.180:8000
