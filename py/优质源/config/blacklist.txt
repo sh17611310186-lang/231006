@@ -67,3 +67,5 @@ video.epaper.pybtv.cn
 play.jinnantv.top
 cm-wshls.homecdn.com
 live.daningtv.com
+traffic.jbh.tjbh.com
+223.105.252.8
