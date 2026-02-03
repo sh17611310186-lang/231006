@@ -61,3 +61,9 @@ webcast.hkstv.tv
 112.27.235.94
 hlscdn.liangtv.cn
 tvpull.smartwq.cn
+tvpull.hmgbtv.com
+play-radio-stream3.hndt.com
+video.epaper.pybtv.cn
+play.jinnantv.top
+cm-wshls.homecdn.com
+live.daningtv.com
