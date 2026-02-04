@@ -75,3 +75,6 @@ live.jinchuanrmt.com
 live.ynurl.com
 hlsbkmgsplive.miguvideo.com
 60.222.246.220
+p2.vzan.com
+182.150.23.74
+cdn2.132.us.kg
