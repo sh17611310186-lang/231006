@@ -78,3 +78,5 @@ hlsbkmgsplive.miguvideo.com
 p2.vzan.com
 182.150.23.74
 cdn2.132.us.kg
+222.214.208.34
+119.32.12.17
