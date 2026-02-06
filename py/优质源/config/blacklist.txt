@@ -85,3 +85,7 @@ cdn6.101.qzz.io
 218.17.33.178
 m3u8.channel.wsrtv.com.cn
 5ddce30eb4b55.streamlock.net
+cdn9.163189.xyz
+tvdrs.wsrtv.com.cn
+stream.hrbtv.net
+113.25.252.226
