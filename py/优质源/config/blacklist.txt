@@ -46,3 +46,5 @@ mgsp-tx2.live.miguvideo.com
 111.221.137.155
 goodiptv.club
 183.11.239.36
+tvcdn.stream3.hndt.com
+video.bread-tv.com
