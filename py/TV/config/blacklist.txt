@@ -347,3 +347,9 @@ goodiptv.club:443
 113.44.65.227:1234
 101.66.195.205:9901
 101.66.198.13:9901
+125.42.150.201:9901
+tvpull.hmgbtv.com:443
+hmfs.f3322.net:3388
+video.bread-tv.com:8091
+bxtv.3a.ink:443
+bxtv.3a.ink:80
