@@ -353,3 +353,4 @@ hmfs.f3322.net:3388
 video.bread-tv.com:8091
 bxtv.3a.ink:443
 bxtv.3a.ink:80
+www.goodiptv.club:443
