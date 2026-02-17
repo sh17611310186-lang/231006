@@ -71,3 +71,7 @@ pull-flv-f1.douyincdn.com
 tpc.x3322.net
 pull-hls-f1.douyincdn.com
 m3u8channel.ganzitv.com
+traffic.jbh.tjbh.com
+120.76.248.139
+pull-hsbj.vzan.com
+183.223.157.33
