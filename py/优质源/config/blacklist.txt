@@ -67,3 +67,7 @@ newcntv.qcloudcdn.com
 38.75.136.137
 111.197.80.116
 125.42.150.159
+pull-flv-f1.douyincdn.com
+tpc.x3322.net
+pull-hls-f1.douyincdn.com
+m3u8channel.ganzitv.com
