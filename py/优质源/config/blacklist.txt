@@ -75,3 +75,7 @@ traffic.jbh.tjbh.com
 120.76.248.139
 pull-hsbj.vzan.com
 183.223.157.33
+74.91.26.218
+cdn9.163189.xyz
+222.214.208.34
+hls.168.us.kg
