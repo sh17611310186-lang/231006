@@ -71,3 +71,7 @@ tpc.x3322.net
 111.61.236.247
 antvlive.ab5c6921.cdnviet.com
 58.17.116.69
+183.223.157.33
+tmpstream.hyrtv.cn
+36.32.174.67
+mgsp-zy2.live.miguvideo.com
