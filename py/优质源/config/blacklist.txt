@@ -28,3 +28,6 @@ zjzcf.synology.me
 hwapi.yntv.net
 3gvod.zjgonline.com.cn
 tv.drs.ganzitv.com
+223.105.252.8
+120.76.248.139
+183.11.239.36
