@@ -47,3 +47,5 @@ liveout.gstv.com.cn
 live.ynurl.com
 222.169.85.8
 101.66.199.142
+tvcdn.stream3.hndt.com
+119.32.12.17
