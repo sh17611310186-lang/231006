@@ -52,3 +52,8 @@ tvcdn.stream3.hndt.com
 119.91.7.169
 tpc.x3322.net
 t.freetv.fun
+webcast.hkstv.tv
+118.72.48.240
+flvhspull2mgsplive.miguvideo.com
+69.30.246.194
+3739115337.cloudvdn.com
