@@ -49,3 +49,6 @@ live.ynurl.com
 101.66.199.142
 tvcdn.stream3.hndt.com
 119.32.12.17
+119.91.7.169
+tpc.x3322.net
+t.freetv.fun
