@@ -57,3 +57,11 @@ webcast.hkstv.tv
 flvhspull2mgsplive.miguvideo.com
 69.30.246.194
 3739115337.cloudvdn.com
+1.94.31.214
+gcalic.v.myalicdn.com
+www.wxhcgbds.com
+mgws.vod.miguvideo.com
+153.0.171.163
+mgsp-zy2.live.miguvideo.com
+mgsp-yx2.live.miguvideo.com
+pull-hls-f11.douyincdn.com
