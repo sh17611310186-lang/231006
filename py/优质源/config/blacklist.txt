@@ -65,3 +65,12 @@ mgws.vod.miguvideo.com
 mgsp-zy2.live.miguvideo.com
 mgsp-yx2.live.miguvideo.com
 pull-hls-f11.douyincdn.com
+219.146.95.58
+175.155.106.72
+iptv.4666888.xyz
+live.jinchuanrmt.com
+live1.gatv.com.cn
+drive.mxmy.net
+112.46.85.60
+nn.7x9d.cn
+112.46.105.20
