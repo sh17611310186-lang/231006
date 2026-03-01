@@ -74,3 +74,8 @@ drive.mxmy.net
 112.46.85.60
 nn.7x9d.cn
 112.46.105.20
+iot-mqqt.111yao.cn
+222.179.42.129
+112.132.10.54
+l.cztvcloud.com
+hmfs.f3322.net
