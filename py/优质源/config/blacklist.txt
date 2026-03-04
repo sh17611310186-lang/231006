@@ -41,3 +41,6 @@ ls.qingting.fm
 live.metshop.top
 119.32.12.17
 p2.bdstatic.com
+223.105.252.8
+pull-vivek.speedws.com
+222.169.85.8
