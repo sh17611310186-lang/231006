@@ -63,3 +63,6 @@ genglei.8866.org
 tvcdn.stream3.hndt.com
 112.132.10.54
 uzoiczhh.live.sxmty.com
+pili-live-rtmp.luan2.hfmt.net
+101.66.199.78
+pili-live-hls.hfmt.net
