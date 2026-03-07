@@ -67,3 +67,7 @@ pili-live-rtmp.luan2.hfmt.net
 101.66.199.78
 pili-live-hls.hfmt.net
 cssbyd.imwork.net
+video.epaper.pybtv.cn
+cm-wshls.homecdn.com
+cdn2.163189.xyz
+222.214.208.34
