@@ -71,3 +71,7 @@ video.epaper.pybtv.cn
 cm-wshls.homecdn.com
 cdn2.163189.xyz
 222.214.208.34
+61.136.172.236
+58.17.116.69
+huaiyin-tv-replay.cm.jstv.com
+183.223.157.33
