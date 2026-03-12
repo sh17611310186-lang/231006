@@ -55,3 +55,8 @@ m3u8.channel.dzsm.com
 218.17.33.178
 222.179.42.129
 119.39.9.8
+cssbyd.imwork.net
+tmpstream.hyrtv.cn
+pull-vivek.speedws.com
+live.spccmc.com
+gctxyc.liveplay.myqcloud.com
