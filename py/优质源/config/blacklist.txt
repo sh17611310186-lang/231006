@@ -65,3 +65,6 @@ v3.mediacast.hk
 live.metshop.top
 l2fpdktp.live.sxmty.com
 1yp7hc5p.live.sxmty.com
+125.42.150.235
+119.91.7.169
+cdn2.132.us.kg
