@@ -60,3 +60,8 @@ tmpstream.hyrtv.cn
 pull-vivek.speedws.com
 live.spccmc.com
 gctxyc.liveplay.myqcloud.com
+m3u8.channel.wsrtv.com.cn
+v3.mediacast.hk
+live.metshop.top
+l2fpdktp.live.sxmty.com
+1yp7hc5p.live.sxmty.com
