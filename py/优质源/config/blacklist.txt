@@ -77,3 +77,6 @@ dms.yryyj.site
 file.ysxtv.cn
 hlscdn.liangtv.cn
 zjtv-wshls.homecdn.com
+218.84.12.186
+traffic.jbh.tjbh.com
+113.15.109.216
