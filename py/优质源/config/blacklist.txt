@@ -51,3 +51,7 @@ mgtv.ottiptv.cc
 112.46.85.60
 ali-m-l.cztv.com
 153.0.171.163
+222.214.208.34
+223.105.252.8
+p2.vzan.com
+stream.jmtv.com.cn
