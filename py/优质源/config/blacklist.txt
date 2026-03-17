@@ -55,3 +55,5 @@ ali-m-l.cztv.com
 223.105.252.8
 p2.vzan.com
 stream.jmtv.com.cn
+120.211.62.180
+111.221.137.234
