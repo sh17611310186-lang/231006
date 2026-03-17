@@ -57,3 +57,6 @@ p2.vzan.com
 stream.jmtv.com.cn
 120.211.62.180
 111.221.137.234
+tvpull.smartwq.cn
+drive.mxmy.net
+video.epaper.pybtv.cn
