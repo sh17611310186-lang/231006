@@ -63,3 +63,4 @@ video.epaper.pybtv.cn
 lb.streaming.sk
 tvcdn.stream3.hndt.com
 hzzzz530.com
+t.freetv.fun
