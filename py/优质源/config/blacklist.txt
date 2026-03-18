@@ -60,3 +60,6 @@ stream.jmtv.com.cn
 tvpull.smartwq.cn
 drive.mxmy.net
 video.epaper.pybtv.cn
+lb.streaming.sk
+tvcdn.stream3.hndt.com
+hzzzz530.com
