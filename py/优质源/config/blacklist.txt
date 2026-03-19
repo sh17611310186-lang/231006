@@ -64,3 +64,8 @@ lb.streaming.sk
 tvcdn.stream3.hndt.com
 hzzzz530.com
 t.freetv.fun
+m3u8.channel.dzsm.com
+webcast.hkstv.tv
+1.24.39.180
+39.152.103.17
+120.76.248.139
