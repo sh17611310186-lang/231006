@@ -70,3 +70,7 @@ webcast.hkstv.tv
 39.152.103.17
 120.76.248.139
 222.179.42.129
+srs.iyb983.cn
+file.loulannews.cn
+satellitepull.cnr.cn
+cssbyd.imwork.net
