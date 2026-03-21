@@ -32,3 +32,6 @@ live.yantaitv.cn
 grandprix2023.asuscomm.com
 live1.habctv.com
 lxfile.lxxcb.cn
+119.32.12.17
+traffic.jbh.tjbh.com
+119.39.9.8
