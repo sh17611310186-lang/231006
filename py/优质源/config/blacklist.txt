@@ -62,3 +62,7 @@ nn.7x9d.cn
 pull-hls-f11.douyincdn.com
 153.0.171.163
 gcalic.v.myalicdn.com
+m3u8channel-bx.yunxya.com
+huaiyin-tv-replay.cm.jstv.com
+tvpull.hmgbtv.com
+183.215.134.239
