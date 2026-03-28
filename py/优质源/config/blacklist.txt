@@ -59,3 +59,7 @@ l.cztvcloud.com
 m3u8.channel.wsrtv.com.cn
 www.ahtv.cn
 live1.gatv.com.cn
+223.105.252.8
+218.17.33.178
+8.138.7.223
+hslive.hsnewsnet.com
