@@ -78,3 +78,5 @@ tvdrs.wsrtv.com.cn
 tvpull.dxhmt.cn
 live.metshop.top
 yylunbo.ottiptv.cc
+tvpull.hmgbtv.com
+183.64.174.171
