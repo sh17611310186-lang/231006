@@ -53,3 +53,6 @@ m3u8.channel.dzsm.com
 live.metshop.top
 111.56.90.5
 tvdrs.wsrtv.com.cn
+1.24.39.180
+dms.yryyj.site
+gmxw.7766.org
