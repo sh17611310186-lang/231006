@@ -379,3 +379,10 @@ stream.hrbtv.net:80
 221.13.235.40:9901
 101.74.28.215:9901
 222.179.155.21:1935
+drive.mxmy.net:8888
+iot-mqqt.111yao.cn:8080
+gdcucc.v1.mk:443
+php.jdshipin.com:2096
+v3.mediacast.hk:443
+148.113.160.49:14176
+219.150.217.47:6610
