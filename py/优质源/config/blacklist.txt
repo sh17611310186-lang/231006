@@ -46,3 +46,6 @@ tvcdn.stream3.hndt.com
 file.loulannews.cn
 hczn.x3322.net
 l.cztvcloud.com
+stream.hrbtv.net
+218.13.170.98
+119.32.12.17
