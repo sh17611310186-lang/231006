@@ -39,3 +39,6 @@ liveout.gstv.com.cn
 183.11.239.36
 222.169.85.8
 www.goodiptv.club
+mgtv.ottiptv.cc
+104.250.145.76
+124.116.183.146
