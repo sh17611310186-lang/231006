@@ -61,3 +61,6 @@ satellitepull.cnr.cn
 yylunbo.ottiptv.cc
 gcalic.v.myalicdn.com
 218.17.33.178
+m3u8.channel.dzsm.com
+pull-hls-f11.douyincdn.com
+1.197.204.20
