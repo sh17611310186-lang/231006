@@ -33,3 +33,12 @@ live1.habctv.com
 dtrmlive.qhdtrm.cn
 tvfile.jjrm.org.cn
 3gvod.zjgonline.com.cn
+pull-hls-f11.douyincdn.com
+tpc.x3322.net
+119.32.12.17
+webcast.hkstv.tv
+hkstv.tv
+183.223.157.33
+69.30.246.194
+111.221.137.234
+124.116.183.146
