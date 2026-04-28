@@ -56,3 +56,6 @@ jsmov2.a.yximgs.com
 lianshui-tv-hls.cm.jstv.com
 stream.hrbtv.net
 shuyang-tv-hls.cm.jstv.com
+tvfile.jyrmt.cn
+vip1.xinketongxun.fun
+125.42.151.61
