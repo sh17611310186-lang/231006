@@ -66,3 +66,8 @@ zjtv-wshls.homecdn.com
 101.66.198.51
 119.39.9.8
 hkstv.tv
+120.10.167.40
+live.264788.xyz
+gcalic.v.myalicdn.com
+218.84.12.186
+182.150.115.21
