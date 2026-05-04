@@ -43,3 +43,7 @@ play.jinnantv.top
 tpc.x3322.net
 61.216.67.119
 5ddce30eb4b55.streamlock.net
+lianshui-tv-hls.cm.jstv.com
+lb.streaming.sk
+183.129.255.66
+hkstv.tv
