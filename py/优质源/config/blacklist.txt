@@ -48,3 +48,5 @@ lb.streaming.sk
 183.129.255.66
 hkstv.tv
 38.75.136.137
+r.jdshipin.com
+110.40.170.5
