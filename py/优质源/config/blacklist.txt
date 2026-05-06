@@ -50,3 +50,9 @@ hkstv.tv
 38.75.136.137
 r.jdshipin.com
 110.40.170.5
+111.53.96.67
+gcalic.v.myalicdn.com
+119.29.13.205
+218.104.239.114
+stream.hrbtv.net
+tencentplay.gztv.com
