@@ -62,3 +62,6 @@ tencentplay.gztv.com
 ali-xwl.cztv.com
 wstvcpudali.v.myalicdn.com
 hls.cntv.lxdns.com
+stream.freetv.fun
+tvpull.smartwq.cn
+t.freetv.fun
