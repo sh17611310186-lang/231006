@@ -57,3 +57,8 @@ gcalic.v.myalicdn.com
 stream.hrbtv.net
 tencentplay.gztv.com
 219.155.100.251
+112.132.10.54
+61.136.172.236
+ali-xwl.cztv.com
+wstvcpudali.v.myalicdn.com
+hls.cntv.lxdns.com
