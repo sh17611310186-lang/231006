@@ -389,3 +389,14 @@ v3.mediacast.hk:443
 m3u8channel.ganzitv.com:443
 pull-vivek.speedws.com:80
 1yp7hc5p.live.sxmty.com:443
+101.66.195.196:9901
+101.66.198.102:9901
+101.66.198.224:9901
+www.goodiptv.club:80
+101.66.195.96:9901
+74.48.192.96:82
+nn.7x9d.cn:80
+101.66.195.81:9901
+livepull.myntv.cn:80
+101.66.198.233:9901
+cdn.163189.xyz:80
