@@ -400,3 +400,8 @@ nn.7x9d.cn:80
 livepull.myntv.cn:80
 101.66.198.233:9901
 cdn.163189.xyz:80
+live.264788.xyz:443
+122.100.242.52:12179
+iptv.kakacq.com:8888
+dspdhls.appcoo.com:8888
+59.62.1.50:8888
