@@ -48,3 +48,6 @@ gmxw.7766.org
 183.129.255.66
 shuyang-tv-hls.cm.jstv.com
 124.228.160.176
+play-a2.quklive.com
+l.cztvcloud.com
+live.xysrmt.cn
