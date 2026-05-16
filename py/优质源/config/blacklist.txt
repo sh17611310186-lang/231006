@@ -51,3 +51,6 @@ shuyang-tv-hls.cm.jstv.com
 play-a2.quklive.com
 l.cztvcloud.com
 live.xysrmt.cn
+124.116.183.146
+huaiyin-tv-replay.cm.jstv.com
+61.136.172.236
