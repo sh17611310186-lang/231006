@@ -62,3 +62,4 @@ stream.sun0769.com
 104.250.145.76
 nor3live.win
 ali-m-l.cztv.com
+125.42.150.192
