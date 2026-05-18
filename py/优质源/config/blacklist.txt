@@ -64,3 +64,6 @@ nor3live.win
 ali-m-l.cztv.com
 125.42.150.192
 ali-xwl.cztv.com
+47.108.228.131
+satellitepull.cnr.cn
+183.11.239.36
