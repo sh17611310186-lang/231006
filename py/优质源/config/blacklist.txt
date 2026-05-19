@@ -67,3 +67,8 @@ ali-xwl.cztv.com
 47.108.228.131
 satellitepull.cnr.cn
 183.11.239.36
+113.46.143.74
+101.66.194.206
+110.154.192.40
+218.104.239.114
+gcalic.v.myalicdn.com
