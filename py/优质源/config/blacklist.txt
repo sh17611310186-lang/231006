@@ -72,3 +72,4 @@ satellitepull.cnr.cn
 110.154.192.40
 218.104.239.114
 gcalic.v.myalicdn.com
+jwcdnqx.hebyun.com.cn
