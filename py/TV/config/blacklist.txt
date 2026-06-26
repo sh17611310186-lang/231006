@@ -304,3 +304,5 @@ live.qthnews.org.cn:1935
 play.jinnantv.top:80
 o11.163189.xyz:80
 27.12.12.207:1234
+traffic.jbh.tjbh.com:80
+222.223.41.27:8888
