@@ -139,3 +139,6 @@ lbds.us.ci
 101.132.26.106
 110.244.139.249
 116.52.173.172
+113.25.252.226
+jwplay.hebyun.com.cn
+jwcdnqx.hebyun.com.cn
