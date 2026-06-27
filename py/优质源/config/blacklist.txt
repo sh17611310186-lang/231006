@@ -148,3 +148,4 @@ gcalic.v.myalicdn.com
 txmov2.a.kwimgs.com
 live.xysrmt.cn
 l.cztvcloud.com
+110.154.192.30
