@@ -308,3 +308,5 @@ traffic.jbh.tjbh.com:80
 222.223.41.27:8888
 live.metshop.top:443
 srs.iyb983.cn:443
+mgsp-yx2.live.miguvideo.com:8088
+live.shaoxing.com.cn:80
