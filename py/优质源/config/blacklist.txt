@@ -142,3 +142,9 @@ lbds.us.ci
 113.25.252.226
 jwplay.hebyun.com.cn
 jwcdnqx.hebyun.com.cn
+gcalic.v.myalicdn.com
+58.56.162.102
+182.61.15.84
+txmov2.a.kwimgs.com
+live.xysrmt.cn
+l.cztvcloud.com
