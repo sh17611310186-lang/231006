@@ -52,3 +52,7 @@ webcast.hkstv.tv:80
 183.129.255.66:8480
 hkstv.tv:443
 111.221.137.234:44330
+iptv.4666888.xyz:80
+dxtx.hntv.tv:443
+e2.woc.iiiya.cn:28888
+8.138.7.223:80
