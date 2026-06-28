@@ -60,3 +60,7 @@ e2.woc.iiiya.cn:28888
 tmpstream.hyrtv.cn:80
 183.64.174.171:40123
 video.epaper.pybtv.cn:8080
+222.179.42.129:8181
+113.25.252.226:9901
+dspdhls.appcoo.com:8888
+182.150.115.21:8030
