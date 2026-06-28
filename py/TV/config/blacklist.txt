@@ -22,3 +22,14 @@ tpc.x3322.net:9901
 cdn9.163189.xyz:80
 222.140.13.12:1234
 live.ottiptv.cc:443
+bp-resource-dfl.bestv.cn:80
+l.cztvcloud.com:443
+222.169.85.8:9901
+live.zzyxxw.com:2443
+218.84.12.186:8002
+genglei.8866.org:9901
+drive.mxmy.net:8888
+live.264788.xyz:443
+38.64.72.148:80
+218.94.90.74:57585
+222.214.208.34:59901
