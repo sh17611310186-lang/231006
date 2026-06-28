@@ -58,3 +58,5 @@ e2.woc.iiiya.cn:28888
 8.138.7.223:80
 183.237.95.108:9901
 tmpstream.hyrtv.cn:80
+183.64.174.171:40123
+video.epaper.pybtv.cn:8080
