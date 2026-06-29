@@ -151,3 +151,7 @@ l.cztvcloud.com
 110.154.192.30
 live.gdtv.ah.cn
 183.223.157.33
+satellitepull.cnr.cn
+111.8.224.6
+112.46.105.20
+1.24.39.180
