@@ -74,3 +74,4 @@ play.scrstv.com.cn:443
 zjrtv.vip:80
 svip.high24-playback.com:443
 123.129.70.178:9901
+live.streamingfast.net:443
