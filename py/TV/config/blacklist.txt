@@ -101,3 +101,4 @@ test1.live.sdetv.com.cn:443
 shcm-stream-cf1.stream.264788.xyz:443
 192.151.150.154:80
 php.jdshipin.com:2096
+218.84.12.186:8001
