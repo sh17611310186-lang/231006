@@ -89,3 +89,13 @@ home.scanflove.com:7788
 47.100.209.208:8100
 stream.thmz.com:443
 221.226.51.220:50081
+111.231.6.102:1234
+t.061899.xyz:80
+my9.ltd:443
+zmgd.zyrnet.com:8888
+ali-xwl.cztv.com:80
+bp-resource-dfl.bestv.cn:443
+test1.live.sdetv.com.cn:80
+test1.live.sdetv.com.cn:443
+58.37.29.210:9001
+shcm-stream-cf1.stream.264788.xyz:443
