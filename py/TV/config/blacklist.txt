@@ -112,3 +112,7 @@ tntgjhjb.live.sxmty.com:443
 uzoiczhh.live.sxmty.com:80
 stream10.jlntv.cn:80
 qmmqvzoz.live.sxmty.com:443
+101.66.195.88:9901
+r.jdshipin.com:80
+113.141.220.55:9901
+101.66.194.49:9901
