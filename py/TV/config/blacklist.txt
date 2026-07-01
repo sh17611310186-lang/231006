@@ -104,3 +104,11 @@ php.jdshipin.com:2096
 218.84.12.186:8001
 l.cztvcloud.com:80
 111.43.126.240:9003
+101.66.198.61:9901
+l2fpdktp.live.sxmty.com:443
+lbyzztfe.live.sxmty.com:80
+101.66.198.133:9901
+tntgjhjb.live.sxmty.com:443
+uzoiczhh.live.sxmty.com:80
+stream10.jlntv.cn:80
+qmmqvzoz.live.sxmty.com:443
