@@ -122,3 +122,4 @@ r.jdshipin.com:80
 feilong123.vip:80
 106.37.143.189:7788
 gctxyc.liveplay.myqcloud.com:80
+cm-wshls.homecdn.com:80
