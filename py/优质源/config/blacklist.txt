@@ -126,3 +126,6 @@ jwcdnqx.hebyun.com.cn
 cdn.jdshipin.com
 111.231.6.102
 101.66.194.49
+ls.qingting.fm
+112.27.235.94
+1.24.39.180
