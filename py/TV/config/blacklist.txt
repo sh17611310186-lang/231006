@@ -126,3 +126,5 @@ cm-wshls.homecdn.com:80
 vip1.xinketongxun.fun:8082
 183.236.43.98:4013
 jsmov2.a.yximgs.com:80
+8.135.27.147:1234
+27.12.12.29:1234
