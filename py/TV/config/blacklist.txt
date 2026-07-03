@@ -131,3 +131,5 @@ jsmov2.a.yximgs.com:80
 183.220.107.138:4022
 stream.jmtv.com.cn:443
 218.81.49.34:10010
+dassby.qqff.top:99
+live.xysrmt.cn:80
