@@ -135,3 +135,7 @@ dassby.qqff.top:99
 live.xysrmt.cn:80
 flv-play.clouda.com:443
 47.104.178.59:3566
+live.jinchuanrmt.com:90
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+live.spccmc.com:90
+pull-hls-f1.douyinliving.com:80
