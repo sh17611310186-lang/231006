@@ -145,3 +145,5 @@ p2hs.vzan.com:443
 m3u8.channel.dzsm.com:443
 119.39.9.8:9901
 hls.cntv.lxdns.com:443
+183.222.15.202:4321
+221.220.131.11:8168
