@@ -141,3 +141,5 @@ stream1.freetv.fun
 118.193.115.2
 live.jinchuanrmt.com
 flv-play.clouda.com
+222.90.21.30
+223.75.149.129
