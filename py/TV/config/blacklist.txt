@@ -147,3 +147,5 @@ m3u8.channel.dzsm.com:443
 hls.cntv.lxdns.com:443
 183.222.15.202:4321
 221.220.131.11:8168
+www.goodiptv.club:443
+113.81.20.24:8188
