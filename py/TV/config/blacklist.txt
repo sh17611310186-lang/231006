@@ -149,3 +149,4 @@ hls.cntv.lxdns.com:443
 221.220.131.11:8168
 www.goodiptv.club:443
 113.81.20.24:8188
+play.jinnantv.top:80
