@@ -193,3 +193,5 @@ jwplay.hebyun.com.cn:80
 live-auth.51kandianshi.com:443
 newcntv.qcloudcdn.com:80
 newcntv.qcloudcdn.com:443
+115.48.161.55:9901
+1.94.31.214:80
