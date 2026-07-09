@@ -57,3 +57,6 @@ m3u8.channel.dzsm.com:443
 218.13.170.98:9901
 43.156.8.127:5050
 cdn9.163189.xyz:80
+tmpstream.hyrtv.cn:80
+58.37.29.210:9001
+hslive.hsnewsnet.com:80
