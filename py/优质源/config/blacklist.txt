@@ -142,3 +142,6 @@ ls.qingting.fm
 stream.thmz.com
 223.75.149.129
 jsmov2.a.yximgs.com
+channel.wcrmt.cn
+hslive.hsnewsnet.com
+123.163.114.168
