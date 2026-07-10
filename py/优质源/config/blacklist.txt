@@ -145,3 +145,4 @@ jsmov2.a.yximgs.com
 channel.wcrmt.cn
 hslive.hsnewsnet.com
 123.163.114.168
+112.46.105.20
