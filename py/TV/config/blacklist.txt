@@ -78,3 +78,5 @@ radio.pull.hebtv.com:443
 222.179.155.21:1935
 182.150.23.74:808
 www.goodiptv.club:80
+live.spccmc.com:90
+jwcdnqx.hebyun.com.cn:443
