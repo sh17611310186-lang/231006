@@ -74,3 +74,7 @@ file.ysxtv.cn:443
 183.47.2.156:16883
 123.163.114.168:85
 channel.wcrmt.cn:80
+radio.pull.hebtv.com:443
+222.179.155.21:1935
+182.150.23.74:808
+www.goodiptv.club:80
