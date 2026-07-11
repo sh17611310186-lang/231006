@@ -90,3 +90,5 @@ v3.mediacast.hk:443
 liveout.btzx.com.cn:80
 liveout.btzx.com.cn:443
 27.12.12.183:1234
+223.105.252.59:80
+liveout.xntv.tv:443
