@@ -86,3 +86,7 @@ live.xysrmt.cn:80
 v3.mediacast.hk:443
 222.179.42.129:8181
 183.220.20.17:4321
+223.247.25.207:1234
+liveout.btzx.com.cn:80
+liveout.btzx.com.cn:443
+27.12.12.183:1234
