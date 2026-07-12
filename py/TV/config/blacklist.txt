@@ -45,3 +45,5 @@ dxtx.hntv.tv:443
 hslive.hsnewsnet.com:80
 satellitepull.cnr.cn:80
 59.35.185.47:8188
+8.153.110.51:3020
+l.cztvcloud.com:80
