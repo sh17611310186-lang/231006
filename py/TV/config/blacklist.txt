@@ -37,3 +37,7 @@ stream.thmz.com:443
 cdn9.163189.xyz:80
 222.214.208.34:59901
 111.221.137.234:44330
+bp-resource-dfl.bestv.cn:443
+stream.thmz.com:80
+112.46.85.60:8009
+epg.pw:443
