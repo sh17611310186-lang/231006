@@ -41,3 +41,5 @@ bp-resource-dfl.bestv.cn:443
 stream.thmz.com:80
 112.46.85.60:8009
 epg.pw:443
+dxtx.hntv.tv:443
+hslive.hsnewsnet.com:80
