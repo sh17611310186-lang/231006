@@ -128,3 +128,5 @@ stream.thmz.com
 raw.githubusercontent.com
 183.129.255.66
 m3u8.channel.dzsm.com
+p.ytelc.com
+110.154.192.66
