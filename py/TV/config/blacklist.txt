@@ -42,3 +42,10 @@ v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
 l.cztvcloud.com:443
 1.24.39.180:9003
 video.epaper.pybtv.cn:8080
+218.13.170.98:9901
+cdn9.163189.xyz:80
+live.264788.xyz:443
+8.138.7.223:80
+124.116.183.146:9901
+dxtx.hntv.tv:443
+gmxw.7766.org:808
