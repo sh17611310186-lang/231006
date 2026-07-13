@@ -49,3 +49,6 @@ live.264788.xyz:443
 124.116.183.146:9901
 dxtx.hntv.tv:443
 gmxw.7766.org:808
+hslive.hsnewsnet.com:80
+live.streamingfast.net:443
+tmpstream.hyrtv.cn:80
