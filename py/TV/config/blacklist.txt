@@ -69,3 +69,4 @@ mgsp-ali2.live.miguvideo.com:8088
 my9.ltd:443
 cssbyd.imwork.net:8082
 shcm-stream-cf1.stream.264788.xyz:443
+hzcm-live.media.hugd.com:80
