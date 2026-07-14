@@ -58,3 +58,5 @@ gslbmgspvod.miguvideo.com:80
 182.150.23.74:808
 183.237.95.108:9901
 stream.thmz.com:443
+222.134.245.16:9901
+srs.iyb983.cn:443
