@@ -64,3 +64,8 @@ srs.iyb983.cn:443
 175.178.243.33:8787
 play.jinnantv.top:80
 bp-resource-dfl.bestv.cn:443
+mgsp-ali2.live.miguvideo.com:8088
+218.84.12.186:8001
+my9.ltd:443
+cssbyd.imwork.net:8082
+shcm-stream-cf1.stream.264788.xyz:443
