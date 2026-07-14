@@ -61,3 +61,6 @@ stream.thmz.com:443
 222.134.245.16:9901
 srs.iyb983.cn:443
 119.39.9.8:9901
+175.178.243.33:8787
+play.jinnantv.top:80
+bp-resource-dfl.bestv.cn:443
