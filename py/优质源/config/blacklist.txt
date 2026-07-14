@@ -130,3 +130,4 @@ raw.githubusercontent.com
 m3u8.channel.dzsm.com
 p.ytelc.com
 110.154.192.66
+tpc.x3322.net
