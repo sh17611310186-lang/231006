@@ -53,3 +53,8 @@ play.jinnantv.top:80
 stream.thmz.com:80
 www.guzhenm.com:7001
 tmpstream.hyrtv.cn:80
+file.ysxtv.cn:80
+live.metshop.top:80
+live.264788.xyz:443
+183.129.255.66:8480
+file.ysxtv.cn:443
