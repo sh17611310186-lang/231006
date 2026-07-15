@@ -22,3 +22,14 @@ channel.wcrmt.cn:80
 live.yantaitv.cn:80
 tmpstream.hyrtv.cn:80
 124.88.144.73:1935
+222.169.85.8:9901
+rt-srb.rttv.com:443
+123.130.84.106:8154
+rt-ger.rttv.com:443
+rt-arb.rttv.com:443
+rt-esp.rttv.com:443
+e2.woc.iiiya.cn:28888
+rt-fra.rttv.com:443
+222.179.42.129:8181
+rt-glb.rttv.com:443
+rt-rtd.rttv.com:443
