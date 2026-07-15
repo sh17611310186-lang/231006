@@ -49,3 +49,6 @@ gmxw.7766.org:808
 play.jinnantv.top:80
 175.0.64.97:8888
 218.13.170.98:9901
+43.156.8.127:5050
+stream.thmz.com:80
+www.guzhenm.com:7001
