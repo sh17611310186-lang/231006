@@ -52,3 +52,4 @@ play.jinnantv.top:80
 43.156.8.127:5050
 stream.thmz.com:80
 www.guzhenm.com:7001
+tmpstream.hyrtv.cn:80
