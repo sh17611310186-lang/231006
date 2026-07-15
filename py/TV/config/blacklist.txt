@@ -35,3 +35,5 @@ l.cztvcloud.com:443
 cdn9.163189.xyz:80
 tpc.x3322.net:9901
 60.10.139.113:8801
+118.193.115.2:9901
+stream.thmz.com:443
