@@ -138,3 +138,6 @@ www.negative.top
 hkstv.tv
 14.153.176.108
 webcast.hkstv.tv
+epg.pw
+stream1.freetv.fun
+182.127.153.119
