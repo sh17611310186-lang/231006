@@ -53,3 +53,7 @@ hslive.hsnewsnet.com:80
 l.cztvcloud.com:443
 112.123.243.37:50085
 222.134.245.16:9901
+tpc.x3322.net:9901
+p2.bdstatic.com:443
+218.13.170.98:9901
+file.loulannews.cn:80
