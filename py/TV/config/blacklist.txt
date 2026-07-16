@@ -63,3 +63,5 @@ file.loulannews.cn:80
 shcm-stream-cf1.stream.264788.xyz:443
 live.metshop.top:80
 live.264788.xyz:443
+epg.pw:443
+m3u8.channel.dzsm.com:443
