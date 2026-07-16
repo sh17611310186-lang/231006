@@ -44,3 +44,7 @@ www.goodiptv.club:443
 gslbmgsplive.miguvideo.com:80
 182.61.15.163:80
 101.6.130.52:1234
+satellitepull.cnr.cn:80
+zbbf2.ahbztv.com:80
+stream.thmz.com:80
+cm-wshls.homecdn.com:80
