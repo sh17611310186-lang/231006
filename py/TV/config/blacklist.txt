@@ -43,3 +43,5 @@ vip1.xinketongxun.fun:8082
 stream.thmz.com:80
 gslbmgsplive.miguvideo.com:80
 101.6.130.52:1234
+222.134.245.16:9901
+utv1.hqtvzb.com:9999
