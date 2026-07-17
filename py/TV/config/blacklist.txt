@@ -57,3 +57,7 @@ tpc.x3322.net:9901
 stream.jmtv.com.cn:80
 play.scrstv.com.cn:443
 183.11.239.36:808
+tmpstream.hyrtv.cn:80
+hslive.hsnewsnet.com:80
+218.84.127.245:1026
+stream.jmtv.com.cn:443
