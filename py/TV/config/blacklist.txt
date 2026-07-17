@@ -45,3 +45,8 @@ gslbmgsplive.miguvideo.com:80
 101.6.130.52:1234
 222.134.245.16:9901
 utv1.hqtvzb.com:9999
+124.116.183.146:9901
+cd-live-stream.news.cctvplus.com:80
+live.metshop.top:80
+183.129.255.66:8480
+tpc.x3322.net:9901
