@@ -61,3 +61,6 @@ tmpstream.hyrtv.cn:80
 hslive.hsnewsnet.com:80
 218.84.127.245:1026
 stream.jmtv.com.cn:443
+www.lwfz.fun:8800
+cm-wshls.homecdn.com:80
+153.0.171.163:9901
