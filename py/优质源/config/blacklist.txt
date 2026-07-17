@@ -141,3 +141,7 @@ webcast.hkstv.tv
 epg.pw
 stream1.freetv.fun
 182.127.153.119
+120.238.94.82
+153.0.171.163
+175.178.243.33
+p2.vzan.com
