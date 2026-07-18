@@ -51,3 +51,5 @@ uzoiczhh.live.sxmty.com:80
 222.130.32.10:7788
 116.52.173.5:1234
 gslbmgsplive.miguvideo.com:80
+zbbf2.ahbztv.com:80
+live.xysrmt.cn:80
