@@ -23,3 +23,4 @@ live.264788.xyz:443
 183.129.255.66:8480
 hslive.hsnewsnet.com:80
 shcm-stream-cf1.stream.264788.xyz:443
+222.214.208.34:59901
