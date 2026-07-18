@@ -18,3 +18,8 @@ tpc.x3322.net:9901
 channel.wcrmt.cn:80
 tv.drs.ganzitv.com:8100
 222.169.85.8:9901
+123.130.84.106:8154
+live.264788.xyz:443
+183.129.255.66:8480
+hslive.hsnewsnet.com:80
+shcm-stream-cf1.stream.264788.xyz:443
