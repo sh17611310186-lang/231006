@@ -81,3 +81,5 @@ bp-resource-dfl.bestv.cn:443
 stream5.jlntv.cn:80
 p2hs.vzan.com:443
 jwplay.hebyun.com.cn:80
+183.222.15.202:4321
+l.cztvcloud.com:443
