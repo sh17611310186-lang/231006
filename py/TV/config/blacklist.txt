@@ -83,3 +83,9 @@ p2hs.vzan.com:443
 jwplay.hebyun.com.cn:80
 183.222.15.202:4321
 l.cztvcloud.com:443
+dassby.qqff.top:99
+cm-wshls.homecdn.com:80
+www.lwfz.fun:8800
+my9.ltd:443
+183.129.255.66:8480
+118.193.115.2:9901
