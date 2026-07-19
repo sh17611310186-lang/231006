@@ -19,3 +19,6 @@ lxfile.lxxcb.cn:80
 124.116.183.146:9901
 live.yantaitv.cn:80
 nor3live.win:80
+175.0.64.97:8888
+106.111.244.12:58099
+tpc.x3322.net:9901
