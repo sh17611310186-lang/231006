@@ -51,3 +51,4 @@ hslive.hsnewsnet.com:80
 satellitepull.cnr.cn:443
 e2.woc.iiiya.cn:28888
 live.jinchuanrmt.com:90
+play.jinnantv.top:80
