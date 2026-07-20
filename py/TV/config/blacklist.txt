@@ -49,3 +49,5 @@ stream.thmz.com:80
 zbbf2.ahbztv.com:80
 hslive.hsnewsnet.com:80
 satellitepull.cnr.cn:443
+e2.woc.iiiya.cn:28888
+live.jinchuanrmt.com:90
