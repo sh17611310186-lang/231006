@@ -44,3 +44,8 @@ stream.thmz.com:443
 182.114.48.224:9901
 106.111.244.12:58099
 l.cztvcloud.com:80
+222.134.245.16:9901
+stream.thmz.com:80
+zbbf2.ahbztv.com:80
+hslive.hsnewsnet.com:80
+satellitepull.cnr.cn:443
