@@ -125,3 +125,6 @@ jsv-live-play.sfccn.com
 gdcucc.v1.mk
 flvhspull2mgsplive.miguvideo.com
 116.52.173.5
+live1.gatv.com.cn
+183.223.157.33
+223.247.25.221
