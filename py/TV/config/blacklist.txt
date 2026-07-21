@@ -55,3 +55,4 @@ play.jinnantv.top:80
 125.42.148.25:9901
 epg.pw:443
 zmgd.zyrnet.com:8888
+47.104.178.59:3566
