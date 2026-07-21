@@ -81,3 +81,6 @@ jsv-live-play.sfccn.com:443
 59.39.89.130:60901
 183.129.255.66:8480
 www.negative.top:50000
+cdn.jdshipin.com:8880
+l.cztvcloud.com:443
+hlszymgspvod.miguvideo.com:8080
