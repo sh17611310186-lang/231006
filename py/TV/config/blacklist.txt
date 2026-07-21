@@ -87,3 +87,5 @@ hlszymgspvod.miguvideo.com:8080
 english-livetx.cgtn.com:443
 english-livetx.cgtn.com:80
 61.136.172.236:9901
+live1.gatv.com.cn:85
+125.42.148.232:9901
