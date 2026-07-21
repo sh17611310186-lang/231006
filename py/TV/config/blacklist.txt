@@ -57,3 +57,15 @@ epg.pw:443
 zmgd.zyrnet.com:8888
 47.104.178.59:3566
 222.128.55.152:9080
+m3u8.channel.dzsm.com:443
+182.150.115.21:8030
+qmmqvzoz.live.sxmty.com:443
+hlszymgsplive.miguvideo.com:8080
+p2hs.vzan.com:443
+222.179.42.129:8181
+tylive.kan0512.com:443
+60.168.105.87:5008
+bp-resource-dfl.bestv.cn:443
+live.zzyxxw.com:85
+111.8.224.6:9999
+122.152.202.33:80
