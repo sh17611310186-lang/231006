@@ -94,3 +94,8 @@ live1.gatv.com.cn:85
 183.223.157.33:9901
 221.226.51.220:50081
 antvlive.ab5c6921.cdnviet.com:80
+gslbflvmgsplive.miguvideo.com:80
+flvalipull2mgsplive.miguvideo.com:80
+116.52.173.134:1234
+gslbmgspvod.miguvideo.com:80
+106.42.108.174:7788
