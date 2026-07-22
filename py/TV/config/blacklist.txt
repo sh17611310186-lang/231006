@@ -108,3 +108,6 @@ live.264788.xyz:443
 l2fpdktp.live.sxmty.com:443
 120.202.94.181:9446
 ali-m-l.cztv.com:443
+44911.hlsplay.aodianyun.com:443
+bp-resource-dfl.bestv.cn:80
+cm-wshls.homecdn.com:80
