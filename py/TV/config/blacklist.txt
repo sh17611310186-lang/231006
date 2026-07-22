@@ -100,3 +100,7 @@ flvalipull2mgsplive.miguvideo.com:80
 gslbmgspvod.miguvideo.com:80
 106.42.108.174:7788
 125.43.247.15:9901
+tntgjhjb.live.sxmty.com:443
+ali-vl.cztv.com:80
+zjtv-wshls.homecdn.com:80
+183.11.239.36:808
