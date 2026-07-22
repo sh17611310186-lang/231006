@@ -99,3 +99,4 @@ flvalipull2mgsplive.miguvideo.com:80
 116.52.173.134:1234
 gslbmgspvod.miguvideo.com:80
 106.42.108.174:7788
+125.43.247.15:9901
