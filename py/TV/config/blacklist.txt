@@ -111,3 +111,6 @@ ali-m-l.cztv.com:443
 44911.hlsplay.aodianyun.com:443
 bp-resource-dfl.bestv.cn:80
 cm-wshls.homecdn.com:80
+uzoiczhh.live.sxmty.com:80
+hzcm-live.media.hugd.com:80
+lbyzztfe.live.sxmty.com:80
