@@ -104,3 +104,7 @@ tntgjhjb.live.sxmty.com:443
 ali-vl.cztv.com:80
 zjtv-wshls.homecdn.com:80
 183.11.239.36:808
+live.264788.xyz:443
+l2fpdktp.live.sxmty.com:443
+120.202.94.181:9446
+ali-m-l.cztv.com:443
