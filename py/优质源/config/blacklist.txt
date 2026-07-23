@@ -150,3 +150,6 @@ hzcm-live.media.hugd.com
 42.94.210.57
 bcovlive-a.akamaihd.net
 mgsp-ali2.live.miguvideo.com
+218.206.193.218
+qmmqvzoz.live.sxmty.com
+101.66.194.150
