@@ -21,3 +21,8 @@ lxajh.top:80
 dspdhls.appcoo.com:8888
 nor3live.win:80
 genglei.8866.org:9901
+ali-vl.cztv.com:80
+116.233.67.80:8899
+cm-wshls.homecdn.com:80
+183.129.255.66:8480
+44911.hlsplay.aodianyun.com:443
