@@ -91,3 +91,4 @@ www.negative.top:50000
 stream.jmtv.com.cn:443
 zjrtv.vip:80
 111.231.6.102:1234
+qmmqvzoz.live.sxmty.com:443
