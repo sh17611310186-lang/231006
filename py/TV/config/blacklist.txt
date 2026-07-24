@@ -92,3 +92,5 @@ stream.jmtv.com.cn:443
 zjrtv.vip:80
 111.231.6.102:1234
 qmmqvzoz.live.sxmty.com:443
+tmpstream.hyrtv.cn:80
+live.chinacert.cftest5.cn:443
