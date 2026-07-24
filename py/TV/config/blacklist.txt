@@ -82,3 +82,6 @@ hzcm-live.media.hugd.com:80
 l.cztvcloud.com:443
 live.264788.xyz:443
 219.145.93.74:10000
+182.61.15.163:80
+182.127.153.79:1234
+flvalipull2mgsplive.miguvideo.com:80
