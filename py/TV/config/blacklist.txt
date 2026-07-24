@@ -87,3 +87,7 @@ live.264788.xyz:443
 flvalipull2mgsplive.miguvideo.com:80
 cdn-4.pishow.tv:443
 www.negative.top:50000
+183.64.174.171:40123
+stream.jmtv.com.cn:443
+zjrtv.vip:80
+111.231.6.102:1234
