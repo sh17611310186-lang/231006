@@ -94,3 +94,4 @@ zjrtv.vip:80
 qmmqvzoz.live.sxmty.com:443
 tmpstream.hyrtv.cn:80
 live.chinacert.cftest5.cn:443
+liveout.xntv.tv:443
