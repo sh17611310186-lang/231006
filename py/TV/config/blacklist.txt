@@ -35,3 +35,7 @@ gslbmgsplive.miguvideo.com:80
 42.94.210.57:7788
 116.236.204.18:1234
 flvalipull2mgsplive.miguvideo.com:80
+222.134.245.16:9901
+218.13.170.98:9901
+stream.thmz.com:443
+epg.pw:443
