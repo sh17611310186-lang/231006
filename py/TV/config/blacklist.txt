@@ -52,3 +52,9 @@ hzcm-live.media.hugd.com:80
 182.135.66.163:1888
 tntgjhjb.live.sxmty.com:443
 hslive.hsnewsnet.com:80
+lbyzztfe.live.sxmty.com:80
+e2.woc.iiiya.cn:28888
+shcm-stream-cf1.stream.264788.xyz:443
+zjtv-wshls.homecdn.com:80
+183.11.239.36:808
+222.128.26.62:4001
