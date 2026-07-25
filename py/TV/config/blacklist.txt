@@ -59,3 +59,4 @@ zjtv-wshls.homecdn.com:80
 183.11.239.36:808
 222.128.26.62:4001
 p2hs.vzan.com:443
+www.lwfz.fun:8800
