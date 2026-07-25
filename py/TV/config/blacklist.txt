@@ -44,3 +44,9 @@ l.cztvcloud.com:443
 qmmqvzoz.live.sxmty.com:443
 live.jinchuanrmt.com:90
 cdn9.163189.xyz:80
+hzcm-live.media.hugd.com:80
+124.116.183.146:9901
+111.221.137.234:44330
+182.135.66.163:18888
+118.193.115.2:9901
+182.135.66.163:1888
