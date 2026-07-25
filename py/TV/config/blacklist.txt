@@ -42,3 +42,5 @@ epg.pw:443
 uzoiczhh.live.sxmty.com:80
 l.cztvcloud.com:443
 qmmqvzoz.live.sxmty.com:443
+live.jinchuanrmt.com:90
+cdn9.163189.xyz:80
