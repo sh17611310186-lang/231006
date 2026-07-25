@@ -22,3 +22,16 @@ live1.habctv.com:80
 222.179.42.129:8181
 tpc.x3322.net:9901
 lxajh.top:80
+182.127.153.79:1234
+ali-vl.cztv.com:80
+119.88.243.98:17231
+cm-wshls.homecdn.com:80
+119.39.9.8:9901
+gslbmgsplive.miguvideo.com:80
+182.150.23.74:808
+60.168.105.138:5008
+27.12.12.189:1234
+182.61.15.163:80
+42.94.210.57:7788
+116.236.204.18:1234
+flvalipull2mgsplive.miguvideo.com:80
