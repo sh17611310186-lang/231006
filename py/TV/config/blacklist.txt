@@ -54,3 +54,11 @@ stream.thmz.com:443
 vip1.xinketongxun.fun:8082
 gctxyc.liveplay.myqcloud.com:80
 gmxw.7766.org:808
+play.yunxya.com:443
+hlsal-ldvt.qing.mgtv.com:80
+gcwbndali.v.myalicdn.com:443
+hlscdn.liangtv.cn:443
+218.81.49.34:10010
+www.lwfz.fun:8800
+e2.woc.iiiya.cn:28888
+183.222.15.202:4321
