@@ -67,3 +67,4 @@ tmpstream.hyrtv.cn:80
 1yp7hc5p.live.sxmty.com:443
 pull-hls-f1.douyincdn.com:80
 live.streamingfast.net:443
+hslive.hsnewsnet.com:80
