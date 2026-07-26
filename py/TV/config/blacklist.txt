@@ -43,3 +43,10 @@ stream.thmz.com:80
 m3u8.channel.dzsm.com:443
 l2fpdktp.live.sxmty.com:443
 live.xysrmt.cn:80
+121.19.134.22:808
+epg.pw:443
+183.237.95.108:9901
+221.193.168.22:9901
+l.cztvcloud.com:443
+tntgjhjb.live.sxmty.com:443
+stream.thmz.com:443
