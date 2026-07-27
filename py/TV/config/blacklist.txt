@@ -20,3 +20,9 @@ channel.wcrmt.cn:80
 iptv.4666888.xyz:80
 121.19.134.22:808
 lbyzztfe.live.sxmty.com:80
+stream.jmtv.com.cn:443
+bp-resource-dfl.bestv.cn:443
+tpc.x3322.net:9901
+stream.jmtv.com.cn:80
+bp-resource-dfl.bestv.cn:80
+l.cztvcloud.com:443
