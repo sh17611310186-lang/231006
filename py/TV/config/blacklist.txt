@@ -41,3 +41,9 @@ l2fpdktp.live.sxmty.com:443
 111.221.137.234:44330
 stream.thmz.com:80
 hslive.hsnewsnet.com:80
+tntgjhjb.live.sxmty.com:443
+video.epaper.pybtv.cn:8080
+m3u8channel.yunxya.com:443
+qmmqvzoz.live.sxmty.com:443
+1yp7hc5p.live.sxmty.com:443
+183.11.239.36:808
