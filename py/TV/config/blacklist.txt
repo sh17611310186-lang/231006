@@ -47,3 +47,4 @@ m3u8channel.yunxya.com:443
 qmmqvzoz.live.sxmty.com:443
 1yp7hc5p.live.sxmty.com:443
 183.11.239.36:808
+44911.hlsplay.aodianyun.com:443
