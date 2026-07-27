@@ -38,3 +38,6 @@ l2fpdktp.live.sxmty.com:443
 116.52.173.95:1234
 119.88.243.98:17231
 110.154.192.36:7788
+111.221.137.234:44330
+stream.thmz.com:80
+hslive.hsnewsnet.com:80
