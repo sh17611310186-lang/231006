@@ -77,3 +77,7 @@ www.negative.top:50000
 58.56.162.102:4466
 139.227.21.22:9901
 jsmov2.a.yximgs.com:80
+221.218.13.150:8000
+dxtx.hntv.tv:443
+183.223.157.33:9901
+stream.thmz.com:443
