@@ -81,3 +81,6 @@ jsmov2.a.yximgs.com:80
 dxtx.hntv.tv:443
 183.223.157.33:9901
 stream.thmz.com:443
+hwapi.yntv.net:443
+tmpstream.hyrtv.cn:80
+49.87.154.246:85
