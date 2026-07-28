@@ -84,3 +84,5 @@ stream.thmz.com:443
 hwapi.yntv.net:443
 tmpstream.hyrtv.cn:80
 49.87.154.246:85
+218.84.12.186:8002
+182.140.125.47:808
