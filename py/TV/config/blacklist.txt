@@ -75,3 +75,5 @@ vip1.xinketongxun.fun:8082
 stream.thmz.com:80
 tmpstream.hyrtv.cn:80
 gd202.tv1288.xyz:443
+125.42.151.53:9901
+44911.hlsplay.aodianyun.com:443
