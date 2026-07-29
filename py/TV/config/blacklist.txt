@@ -74,3 +74,4 @@ vip1.xinketongxun.fun:8082
 222.134.245.16:9901
 stream.thmz.com:80
 tmpstream.hyrtv.cn:80
+gd202.tv1288.xyz:443
