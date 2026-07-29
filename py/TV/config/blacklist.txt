@@ -36,3 +36,13 @@ channel.wcrmt.cn:80
 14.153.176.108:1234
 3gvod.zjgonline.com.cn:1935
 bp-resource-dfl.bestv.cn:80
+222.169.85.8:9901
+uzoiczhh.live.sxmty.com:80
+cm-wshls.homecdn.com:80
+221.218.13.150:8000
+tntgjhjb.live.sxmty.com:443
+play.scrstv.com.cn:443
+1yp7hc5p.live.sxmty.com:443
+183.222.15.202:4321
+116.233.67.80:8899
+202.105.239.77:8188
