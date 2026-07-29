@@ -46,3 +46,9 @@ play.scrstv.com.cn:443
 183.222.15.202:4321
 116.233.67.80:8899
 202.105.239.77:8188
+zjtv-wshls.homecdn.com:80
+hslive.hsnewsnet.com:80
+123.130.84.106:8154
+45.192.97.170:8880
+cdn9.163189.xyz:80
+gcalic.v.myalicdn.com:443
