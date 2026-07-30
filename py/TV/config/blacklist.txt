@@ -37,3 +37,7 @@ lxajh.top:80
 hzcm-live.media.hugd.com:80
 101.66.194.121:9901
 zjtv-wshls.homecdn.com:80
+222.134.245.16:9901
+p2.bdstatic.com:443
+pull-hls-f1.douyinliving.com:80
+qmmqvzoz.live.sxmty.com:443
