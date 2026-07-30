@@ -25,3 +25,6 @@ antvlive.ab5c6921.cdnviet.com:80
 45.192.97.170:8880
 channel.wcrmt.cn:80
 uzoiczhh.live.sxmty.com:80
+123.130.84.106:8154
+ali-vl.cztv.com:80
+l2fpdktp.live.sxmty.com:443
