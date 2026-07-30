@@ -73,3 +73,12 @@ english-livetx.cgtn.com:80
 124.116.183.146:9901
 111.221.137.234:44330
 stream10.jlntv.cn:80
+183.11.239.36:808
+cm-wshls.homecdn.com:80
+120.202.73.48:8888
+110.153.180.106:55555
+play.jinnantv.top:80
+play.scrstv.com.cn:443
+111.4.59.41:60901
+139.227.21.22:9901
+l.cztvcloud.com:443
