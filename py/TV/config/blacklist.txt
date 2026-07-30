@@ -28,3 +28,12 @@ uzoiczhh.live.sxmty.com:80
 123.130.84.106:8154
 ali-vl.cztv.com:80
 l2fpdktp.live.sxmty.com:443
+ali-m-l.cztv.com:443
+218.13.170.98:9901
+video.epaper.pybtv.cn:8080
+1yp7hc5p.live.sxmty.com:443
+tpc.x3322.net:9901
+lxajh.top:80
+hzcm-live.media.hugd.com:80
+101.66.194.121:9901
+zjtv-wshls.homecdn.com:80
