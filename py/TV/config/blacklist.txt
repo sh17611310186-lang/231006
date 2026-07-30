@@ -92,3 +92,5 @@ mg.cttv.vip:80
 106.42.108.174:7788
 tmpstream.hyrtv.cn:80
 rt-ger.rttv.com:443
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
