@@ -104,3 +104,5 @@ stream.thmz.com:443
 cdn9.163189.xyz:80
 stream.thmz.com:80
 shcm-stream-cf1.stream.264788.xyz:443
+e2.woc.iiiya.cn:28888
+jsmov2.a.yximgs.com:80
