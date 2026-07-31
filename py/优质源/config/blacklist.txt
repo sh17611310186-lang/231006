@@ -128,3 +128,10 @@ play.scrstv.com.cn
 120.202.73.48
 gslbmgsplive.miguvideo.com
 vip1.xinketongxun.fun
+hls.cntv.lxdns.com
+183.223.157.33
+cdn.jdshipin.com
+txmov2.a.kwimgs.com
+118.193.115.2
+123.130.84.106
+hslive.hsnewsnet.com
