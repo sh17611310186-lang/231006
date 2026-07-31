@@ -96,3 +96,5 @@ bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
 115.207.211.191:9901
 vip1.xinketongxun.fun:8082
+tntgjhjb.live.sxmty.com:443
+hslive.hsnewsnet.com:80
