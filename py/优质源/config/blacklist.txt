@@ -145,3 +145,5 @@ l.cztvcloud.com
 223.78.65.165
 cdn9.163189.xyz
 m3u8.channel.dzsm.com
+1.24.39.180
+hzcm-live.media.hugd.com
