@@ -129,3 +129,5 @@ www.lwfz.fun:8800
 live.ottiptv.cc:443
 epg.pw:443
 fuxin.yunjifei.top:999
+222.214.208.34:59901
+125.43.249.115:9901
