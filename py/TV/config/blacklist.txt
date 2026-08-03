@@ -46,3 +46,16 @@ hzcm-live.media.hugd.com:80
 101.66.194.121:9901
 218.13.170.98:9901
 1yp7hc5p.live.sxmty.com:443
+139.227.21.22:9901
+lbyzztfe.live.sxmty.com:80
+124.116.183.146:9901
+satellitepull.cnr.cn:443
+183.237.95.108:9901
+ls.qingting.fm:80
+bp-resource-dfl.bestv.cn:443
+l.cztvcloud.com:443
+bp-resource-dfl.bestv.cn:80
+stream.sun0769.com:443
+l2fpdktp.live.sxmty.com:443
+8.138.7.223:80
+mg.cttv.vip:80
