@@ -72,3 +72,7 @@ live.streamingfast.net:443
 stream.thmz.com:80
 svip.high24-playback.com:443
 antvlive.ab5c6921.cdnviet.com:80
+satellitepull.cnr.cn:80
+stream.jmtv.com.cn:80
+123.163.114.121:9901
+play.scrstv.com.cn:443
