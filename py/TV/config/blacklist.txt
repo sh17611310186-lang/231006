@@ -66,3 +66,9 @@ mg.cttv.vip:80
 e2.woc.iiiya.cn:28888
 112.123.243.37:50085
 play.yunxya.com:443
+tmpstream.hyrtv.cn:80
+115.48.160.81:9901
+live.streamingfast.net:443
+stream.thmz.com:80
+svip.high24-playback.com:443
+antvlive.ab5c6921.cdnviet.com:80
