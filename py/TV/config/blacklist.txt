@@ -39,3 +39,10 @@ qmmqvzoz.live.sxmty.com:443
 14.153.176.108:1234
 110.154.192.36:7788
 gslbmgsplive.miguvideo.com:80
+116.233.67.80:8899
+183.129.255.66:8480
+hzcm-live.media.hugd.com:80
+113.25.252.226:9901
+101.66.194.121:9901
+218.13.170.98:9901
+1yp7hc5p.live.sxmty.com:443
