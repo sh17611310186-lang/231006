@@ -89,3 +89,4 @@ stream.jmtv.com.cn:443
 stream3.jlntv.cn:80
 ali-vl.cztv.com:80
 119.39.9.8:9901
+61.178.227.57:9901
