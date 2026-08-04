@@ -169,3 +169,5 @@ t.061899.xyz
 epg.pw
 120.238.94.82
 stream1.freetv.fun
+ali-vl.cztv.com
+111.8.177.168
