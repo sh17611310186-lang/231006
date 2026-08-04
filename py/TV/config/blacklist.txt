@@ -90,3 +90,7 @@ stream3.jlntv.cn:80
 ali-vl.cztv.com:80
 119.39.9.8:9901
 61.178.227.57:9901
+59.35.185.47:8188
+live.metshop.top:443
+111.8.177.168:9901
+gcalic.v.myalicdn.com:443
