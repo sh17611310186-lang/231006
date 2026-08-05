@@ -114,3 +114,8 @@ vip.lqcc.xyz
 video.epaper.pybtv.cn
 110.154.192.36
 n24-cdn-live.ntv.co.jp
+tmpstream.hyrtv.cn
+uzoiczhh.live.sxmty.com
+101.66.194.115
+live.jinchuanrmt.com
+44911.hlsplay.aodianyun.com
