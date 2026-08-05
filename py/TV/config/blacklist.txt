@@ -109,3 +109,5 @@ shcm-stream-cf1.stream.264788.xyz:443
 goodiptv.club:443
 183.11.239.36:808
 123.118.55.165:45237
+182.61.15.73:80
+jsmov2.a.yximgs.com:80
