@@ -111,3 +111,6 @@ goodiptv.club:443
 123.118.55.165:45237
 182.61.15.73:80
 jsmov2.a.yximgs.com:80
+stream.thmz.com:443
+44911.hlsplay.aodianyun.com:443
+live.jinchuanrmt.com:90
