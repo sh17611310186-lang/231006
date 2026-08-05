@@ -114,3 +114,4 @@ jsmov2.a.yximgs.com:80
 stream.thmz.com:443
 44911.hlsplay.aodianyun.com:443
 live.jinchuanrmt.com:90
+v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
