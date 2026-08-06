@@ -118,3 +118,5 @@ v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
 218.206.193.218:8888
 play.jinnantv.top:80
 106.111.244.12:58099
+218.81.49.34:10010
+live.wjyanghu.com:80
