@@ -129,3 +129,4 @@ gmxw.7766.org:808
 live.wjyanghu.com:443
 182.135.66.163:1888
 182.135.66.163:18888
+live.zzyxxw.com:2443
