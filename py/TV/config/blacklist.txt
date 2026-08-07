@@ -130,3 +130,6 @@ live.wjyanghu.com:443
 182.135.66.163:1888
 182.135.66.163:18888
 live.zzyxxw.com:2443
+www.negative.top:50000
+114.233.242.79:4000
+www.guzhenm.com:7001
