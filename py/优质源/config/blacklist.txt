@@ -133,3 +133,5 @@ live.streamingfast.net
 183.129.255.66
 111.231.6.102
 jwcdnqx.hebyun.com.cn
+www.negative.top
+222.179.42.129
