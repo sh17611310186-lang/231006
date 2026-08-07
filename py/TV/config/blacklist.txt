@@ -18,3 +18,12 @@ tv.drs.ganzitv.com:8100
 live1.habctv.com:80
 genglei.8866.org:9901
 lxfile.lxxcb.cn:80
+e2.woc.iiiya.cn:28888
+cm-wshls.homecdn.com:80
+218.84.12.186:8002
+183.129.255.66:8480
+222.134.245.16:9901
+l2fpdktp.live.sxmty.com:443
+l.cztvcloud.com:443
+epg.pw:443
+223.78.65.165:9901
