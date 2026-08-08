@@ -31,3 +31,12 @@ iptv.4666888.xyz:80
 116.233.67.80:8899
 zjtv-wshls.homecdn.com:80
 124.116.183.146:9901
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+m3u8.channel.dzsm.com:443
+221.13.235.58:9901
+uzoiczhh.live.sxmty.com:80
+125.42.148.9:9901
+lbyzztfe.live.sxmty.com:80
+play.scrstv.com.cn:443
+satellitepull.cnr.cn:443
