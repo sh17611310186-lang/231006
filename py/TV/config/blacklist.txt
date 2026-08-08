@@ -54,3 +54,8 @@ gslbmgsplive.miguvideo.com:80
 8.135.27.147:1234
 tpc.x3322.net:9901
 stream.thmz.com:443
+183.223.157.33:9901
+182.150.23.74:808
+zjtv-wshls.homecdn.com:80
+lbyzztfe.live.sxmty.com:80
+m3u8channel.yunxya.com:443
