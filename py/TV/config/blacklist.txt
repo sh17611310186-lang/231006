@@ -27,3 +27,9 @@ l2fpdktp.live.sxmty.com:443
 l.cztvcloud.com:443
 epg.pw:443
 223.78.65.165:9901
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+222.169.85.8:9901
+hzcm-live.media.hugd.com:80
+111.4.59.41:60901
+uzoiczhh.live.sxmty.com:80
