@@ -63,3 +63,5 @@ m3u8channel.yunxya.com:443
 cdn9.163189.xyz:80
 cdn-4.pishow.tv:443
 183.237.95.108:9901
+goodiptv.club:443
+www.goodiptv.club:80
