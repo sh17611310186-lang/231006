@@ -65,3 +65,5 @@ cdn-4.pishow.tv:443
 183.237.95.108:9901
 goodiptv.club:443
 www.goodiptv.club:80
+tntgjhjb.live.sxmty.com:443
+139.227.21.22:9901
