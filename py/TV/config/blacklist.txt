@@ -33,3 +33,7 @@ bp-resource-dfl.bestv.cn:80
 hzcm-live.media.hugd.com:80
 111.4.59.41:60901
 uzoiczhh.live.sxmty.com:80
+59.39.89.130:60901
+218.13.170.98:9901
+123.130.84.106:8154
+123.118.55.165:45237
