@@ -78,3 +78,4 @@ gmxw.7766.org:808
 p2hs.vzan.com:443
 play.jinnantv.top:80
 123.118.53.84:45237
+tmpstream.hyrtv.cn:80
