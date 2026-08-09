@@ -45,3 +45,5 @@ satellitepull.cnr.cn:443
 223.78.65.165:9901
 1yp7hc5p.live.sxmty.com:443
 115.48.161.87:9901
+tpc.x3322.net:9901
+cdn9.163189.xyz:80
