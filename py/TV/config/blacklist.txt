@@ -69,3 +69,7 @@ tntgjhjb.live.sxmty.com:443
 newcntv.qcloudcdn.com:443
 hls.nntv.cn:80
 111.8.224.6:9999
+srs.iyb983.cn:443
+l.cztvcloud.com:443
+183.11.239.36:808
+qmmqvzoz.live.sxmty.com:443
