@@ -47,3 +47,6 @@ satellitepull.cnr.cn:443
 115.48.161.87:9901
 tpc.x3322.net:9901
 cdn9.163189.xyz:80
+www.lwfz.fun:8800
+ali-vl.cztv.com:80
+59.39.89.130:60901
