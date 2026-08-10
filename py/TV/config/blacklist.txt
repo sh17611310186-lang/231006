@@ -22,3 +22,13 @@ hzcm-live.media.hugd.com:80
 l.cztvcloud.com:443
 play.scrstv.com.cn:443
 116.52.173.194:1234
+110.6.137.4:9901
+tvfile.jjrm.org.cn:80
+182.150.23.74:808
+139.227.21.22:9901
+3gvod.zjgonline.com.cn:1935
+124.88.144.73:1935
+live.yantaitv.cn:80
+116.233.67.80:8899
+m3u8.channel.dzsm.com:443
+cm-wshls.homecdn.com:80
