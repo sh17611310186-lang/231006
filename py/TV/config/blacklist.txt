@@ -78,3 +78,6 @@ bp-resource-dfl.bestv.cn:80
 zjtv-wshls.homecdn.com:80
 bp-resource-dfl.bestv.cn:443
 123.118.55.165:45237
+stream.thmz.com:443
+hslive.hsnewsnet.com:80
+123.163.21.227:9901
