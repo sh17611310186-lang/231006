@@ -29,3 +29,13 @@ tvfile.jjrm.org.cn:80
 lxfile.lxxcb.cn:80
 live.yantaitv.cn:80
 101.66.199.253:9901
+l2fpdktp.live.sxmty.com:443
+101.66.195.138:9901
+113.101.119.74:8090
+61.178.227.57:9901
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
+125.42.148.214:9901
+222.134.245.16:9901
+lbyzztfe.live.sxmty.com:80
+218.13.170.98:9901
