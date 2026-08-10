@@ -70,3 +70,11 @@ www.9kds.com:443
 zjrtv.vip:80
 183.237.95.108:9901
 124.234.172.108:9901
+222.134.245.16:9901
+111.76.19.115:1234
+vip1.xinketongxun.fun:8082
+bp-resource-dfl.bestv.cn:80
+123.118.53.84:45237
+zjtv-wshls.homecdn.com:80
+bp-resource-dfl.bestv.cn:443
+123.118.55.165:45237
