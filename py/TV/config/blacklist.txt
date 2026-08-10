@@ -81,3 +81,6 @@ bp-resource-dfl.bestv.cn:443
 stream.thmz.com:443
 hslive.hsnewsnet.com:80
 123.163.21.227:9901
+101.66.199.252:9901
+101.66.199.65:9901
+tmpstream.hyrtv.cn:80
