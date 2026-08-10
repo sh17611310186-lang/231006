@@ -32,3 +32,10 @@ live.yantaitv.cn:80
 116.233.67.80:8899
 m3u8.channel.dzsm.com:443
 cm-wshls.homecdn.com:80
+stream.thmz.com:80
+lbyzztfe.live.sxmty.com:80
+183.47.2.156:16883
+qmmqvzoz.live.sxmty.com:443
+183.64.174.171:40123
+111.8.224.6:9999
+uzoiczhh.live.sxmty.com:80
