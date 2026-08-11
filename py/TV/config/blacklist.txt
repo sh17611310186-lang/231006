@@ -74,3 +74,4 @@ www.goodiptv.club:80
 36.136.38.87:9901
 112.123.243.37:50085
 stream.thmz.com:443
+dxtx.hntv.tv:443
