@@ -77,3 +77,6 @@ stream.thmz.com:443
 dxtx.hntv.tv:443
 stream.thmz.com:80
 120.238.94.82:9901
+218.13.138.139:59901
+118.193.115.2:9901
+tntgjhjb.live.sxmty.com:443
