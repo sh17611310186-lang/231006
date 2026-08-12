@@ -26,3 +26,8 @@ tv.drs.ganzitv.com:8100
 110.6.137.4:9901
 hzcm-live.media.hugd.com:80
 ali-vl.cztv.com:80
+gcalic.v.myalicdn.com:443
+tpc.x3322.net:9901
+tntgjhjb.live.sxmty.com:443
+27.15.4.131:9901
+m3u8.channel.dzsm.com:443
