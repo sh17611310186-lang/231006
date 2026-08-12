@@ -75,3 +75,9 @@ cm-wshls.homecdn.com:80
 116.52.173.100:1234
 shcm-stream-cf1.stream.264788.xyz:443
 112.123.243.37:50085
+183.236.43.98:4013
+gctxyc.liveplay.myqcloud.com:443
+hzcm-live.media.hugd.com:80
+play.yunxya.com:443
+qmmqvzoz.live.sxmty.com:443
+my9.ltd:443
