@@ -92,3 +92,5 @@ bp-resource-dfl.bestv.cn:80
 222.169.85.8:9901
 183.11.239.36:808
 live1.gatv.com.cn:85
+fuxin.yunjifei.top:999
+tmpstream.hyrtv.cn:80
