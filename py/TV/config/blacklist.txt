@@ -67,3 +67,5 @@ uzoiczhh.live.sxmty.com:80
 l.cztvcloud.com:443
 play.jinnantv.top:80
 112.123.243.37:50085
+44911.hlsplay.aodianyun.com:443
+183.237.95.108:9901
