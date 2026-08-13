@@ -61,3 +61,9 @@ lxajh.top:80
 120.198.95.220:9901
 stream.thmz.com:443
 cm-wshls.homecdn.com:80
+1yp7hc5p.live.sxmty.com:443
+182.150.23.74:808
+uzoiczhh.live.sxmty.com:80
+l.cztvcloud.com:443
+play.jinnantv.top:80
+112.123.243.37:50085
