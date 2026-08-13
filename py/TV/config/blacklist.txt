@@ -80,3 +80,11 @@ piccpndks.v.kcdnvip.com:443
 svip.high24-playback.com:443
 zjtv-wshls.homecdn.com:80
 vip.ffzy-online.com:443
+123.118.53.84:45237
+123.118.55.165:45237
+bp-resource-dfl.bestv.cn:443
+lbyzztfe.live.sxmty.com:80
+113.26.202.52:1299
+222.179.42.129:8181
+218.13.138.139:59901
+bp-resource-dfl.bestv.cn:80
