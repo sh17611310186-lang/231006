@@ -69,3 +69,14 @@ play.jinnantv.top:80
 112.123.243.37:50085
 44911.hlsplay.aodianyun.com:443
 183.237.95.108:9901
+vip.ffzy-play1.com:443
+183.236.43.98:4013
+p2hs.vzan.com:443
+60.168.105.165:5008
+vip.ffzy-play7.com:443
+vip.ffzy-play6.com:443
+vip.ffzy-play.com:443
+piccpndks.v.kcdnvip.com:443
+svip.high24-playback.com:443
+zjtv-wshls.homecdn.com:80
+vip.ffzy-online.com:443
