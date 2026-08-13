@@ -90,3 +90,5 @@ lbyzztfe.live.sxmty.com:80
 bp-resource-dfl.bestv.cn:80
 139.214.181.159:9901
 222.169.85.8:9901
+183.11.239.36:808
+live1.gatv.com.cn:85
