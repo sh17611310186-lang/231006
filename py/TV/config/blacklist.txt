@@ -78,3 +78,7 @@ e2.woc.iiiya.cn:28888
 182.150.23.74:808
 l2fpdktp.live.sxmty.com:443
 gmxw.7766.org:808
+stream.thmz.com:443
+tmpstream.hyrtv.cn:80
+122.152.202.33:80
+gcalic.v.myalicdn.com:443
