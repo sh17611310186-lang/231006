@@ -66,3 +66,6 @@ bp-resource-dfl.bestv.cn:443
 ali-m-l.cztv.com:443
 my9.ltd:443
 112.123.243.37:50085
+qmmqvzoz.live.sxmty.com:443
+222.179.42.129:8181
+113.26.202.52:1299
