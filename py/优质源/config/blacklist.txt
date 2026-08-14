@@ -158,3 +158,10 @@ r.jdshipin.com
 111.8.242.142
 111.76.19.115
 139.214.181.159
+l.cztvcloud.com
+goodiptv.club
+113.26.202.52
+hls.gstv.com.cn
+8.135.27.147
+183.129.255.66
+ls.qingting.fm
