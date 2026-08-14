@@ -41,3 +41,6 @@ vip.ffzy-play7.com:443
 hzcm-live.media.hugd.com:80
 gslbmgsplive.miguvideo.com:80
 111.76.19.197:1234
+139.214.181.174:9901
+182.150.115.21:8030
+ali-vl.cztv.com:80
