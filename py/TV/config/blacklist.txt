@@ -62,3 +62,5 @@ bp-resource-dfl.bestv.cn:443
 60.168.105.165:5008
 183.129.255.66:8480
 44911.hlsplay.aodianyun.com:443
+110.72.61.221:8181
+ali-m-l.cztv.com:443
