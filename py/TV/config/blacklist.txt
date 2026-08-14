@@ -60,3 +60,5 @@ m3u8.channel.dzsm.com:443
 bp-resource-dfl.bestv.cn:443
 27.39.122.2:9901
 60.168.105.165:5008
+183.129.255.66:8480
+44911.hlsplay.aodianyun.com:443
