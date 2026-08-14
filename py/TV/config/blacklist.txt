@@ -70,3 +70,8 @@ qmmqvzoz.live.sxmty.com:443
 222.179.42.129:8181
 113.26.202.52:1299
 satellitepull.cnr.cn:443
+tntgjhjb.live.sxmty.com:443
+live.eac-news.com:443
+60.222.246.220:19433
+220.192.165.126:9901
+e2.woc.iiiya.cn:28888
