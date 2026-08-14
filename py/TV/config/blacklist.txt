@@ -75,3 +75,6 @@ live.eac-news.com:443
 60.222.246.220:19433
 220.192.165.126:9901
 e2.woc.iiiya.cn:28888
+182.150.23.74:808
+l2fpdktp.live.sxmty.com:443
+gmxw.7766.org:808
