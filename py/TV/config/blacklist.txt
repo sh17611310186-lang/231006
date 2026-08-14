@@ -69,3 +69,4 @@ my9.ltd:443
 qmmqvzoz.live.sxmty.com:443
 222.179.42.129:8181
 113.26.202.52:1299
+satellitepull.cnr.cn:443
