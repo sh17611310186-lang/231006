@@ -44,3 +44,8 @@ gslbmgsplive.miguvideo.com:80
 139.214.181.174:9901
 182.150.115.21:8030
 ali-vl.cztv.com:80
+l2fpdktp.live.sxmty.com:443
+qmmqvzoz.live.sxmty.com:443
+play.scrstv.com.cn:443
+bp-resource-dfl.bestv.cn:443
+101.66.199.102:9901
