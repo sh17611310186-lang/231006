@@ -166,3 +166,6 @@ hls.gstv.com.cn
 183.129.255.66
 ls.qingting.fm
 183.185.66.248
+bp-resource-dfl.bestv.cn
+223.83.177.142
+116.52.173.67
