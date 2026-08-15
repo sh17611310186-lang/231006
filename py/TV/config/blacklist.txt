@@ -60,3 +60,8 @@ cm-wshls.homecdn.com:80
 183.236.43.98:4013
 139.214.181.159:9901
 bp-resource-dfl.bestv.cn:80
+ali-m-l.cztv.com:443
+223.78.65.165:9901
+zjtv-wshls.homecdn.com:80
+27.39.122.2:9901
+118.193.115.2:9901
