@@ -28,3 +28,17 @@ svip.high24-playback.com:443
 iptv.4666888.xyz:80
 lxajh.top:80
 tv.drs.ganzitv.com:8100
+111.76.19.197:1234
+124.116.183.146:9901
+111.228.4.117:6789
+l.cztvcloud.com:443
+223.78.65.165:9901
+111.76.19.115:1234
+223.83.177.142:1234
+gslbmgsplive.miguvideo.com:80
+60.168.105.165:5008
+113.120.243.10:7788
+lbyzztfe.live.sxmty.com:80
+1yp7hc5p.live.sxmty.com:443
+42.94.210.22:7788
+116.52.173.67:1234
