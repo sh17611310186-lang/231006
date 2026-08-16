@@ -77,3 +77,5 @@ cdn6.163189.xyz:80
 cdn.163189.xyz:80
 cdn8.163189.xyz:443
 cdn6.163189.xyz:443
+event.pull.hebtv.com:80
+m3u8channel.ganzitv.com:443
