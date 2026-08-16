@@ -59,3 +59,5 @@ cm-wshls.homecdn.com:80
 27.39.122.2:9901
 qmmqvzoz.live.sxmty.com:443
 42.224.115.13:9003
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
