@@ -79,3 +79,6 @@ cdn8.163189.xyz:443
 cdn6.163189.xyz:443
 event.pull.hebtv.com:80
 m3u8channel.ganzitv.com:443
+tmpstream.hyrtv.cn:80
+120.238.84.45:9901
+220.192.165.126:9901
