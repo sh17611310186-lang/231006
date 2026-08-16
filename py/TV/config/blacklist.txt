@@ -64,3 +64,4 @@ bp-resource-dfl.bestv.cn:80
 61.178.227.57:9901
 l2fpdktp.live.sxmty.com:443
 139.203.180.9:90
+139.214.181.142:9901
