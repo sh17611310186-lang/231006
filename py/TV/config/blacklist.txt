@@ -60,3 +60,4 @@ lbyzztfe.live.sxmty.com:80
 bp-resource-dfl.bestv.cn:80
 shcm-stream-cf1.stream.264788.xyz:443
 cm-wshls.homecdn.com:80
+p2.bdstatic.com:443
