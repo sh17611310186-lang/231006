@@ -48,3 +48,11 @@ l.cztvcloud.com:443
 222.169.85.8:9901
 123.118.55.165:45237
 39.164.143.66:13994
+183.236.43.98:4013
+bp-resource-dfl.bestv.cn:443
+171.38.148.188:9003
+123.175.209.118:9003
+218.13.138.139:59901
+1yp7hc5p.live.sxmty.com:443
+zjtv-wshls.homecdn.com:80
+lbyzztfe.live.sxmty.com:80
