@@ -56,3 +56,7 @@ bp-resource-dfl.bestv.cn:443
 1yp7hc5p.live.sxmty.com:443
 zjtv-wshls.homecdn.com:80
 lbyzztfe.live.sxmty.com:80
+118.193.115.2:9901
+bp-resource-dfl.bestv.cn:80
+shcm-stream-cf1.stream.264788.xyz:443
+cm-wshls.homecdn.com:80
