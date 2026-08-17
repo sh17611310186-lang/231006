@@ -7,3 +7,8 @@ genglei.8866.org:9901
 iptv.4666888.xyz:80
 live.ottiptv.cc:443
 124.116.183.146:9901
+www.lwfz.fun:8800
+112.123.243.37:50085
+bp-resource-dfl.bestv.cn:80
+e2.woc.iiiya.cn:28888
+bp-resource-dfl.bestv.cn:443
