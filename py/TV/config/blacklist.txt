@@ -76,3 +76,6 @@ liveout.xntv.tv:443
 124.228.160.210:9901
 183.11.239.36:808
 qmmqvzoz.live.sxmty.com:443
+123.131.232.48:9901
+stream.jmtv.com.cn:443
+e2.woc.iiiya.cn:28888
