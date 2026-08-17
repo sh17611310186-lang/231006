@@ -111,3 +111,10 @@ smart.pendy.dpdns.org
 111.22.153.159
 svip.high24-playback.com
 106.53.99.30
+124.116.183.146
+39.164.143.66
+live.ottiptv.cc
+tmpstream.hyrtv.cn
+44911.hlsplay.aodianyun.com
+27.39.122.2
+cdn.jdshipin.com
