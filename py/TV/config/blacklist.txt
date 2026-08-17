@@ -79,3 +79,7 @@ qmmqvzoz.live.sxmty.com:443
 123.131.232.48:9901
 stream.jmtv.com.cn:443
 e2.woc.iiiya.cn:28888
+r.jdshipin.com:80
+27.39.122.2:9901
+182.135.66.163:1888
+p2.ioioz.com:80
