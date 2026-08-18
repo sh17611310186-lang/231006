@@ -39,3 +39,6 @@ l.cztvcloud.com:443
 cm-wshls.homecdn.com:80
 171.38.148.188:9003
 m3u8.channel.dzsm.com:443
+112.27.235.94:8000
+qmmqvzoz.live.sxmty.com:443
+hzcm-live.media.hugd.com:80
