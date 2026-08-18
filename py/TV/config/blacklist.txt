@@ -32,3 +32,5 @@ tv.drs.ganzitv.com:8100
 zjtv-wshls.homecdn.com:80
 124.88.144.73:1935
 l.cztvcloud.com:443
+111.8.242.127:9999
+61.178.227.57:9901
