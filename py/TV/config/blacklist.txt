@@ -31,3 +31,8 @@ live.yantaitv.cn:80
 139.214.181.174:9901
 42.94.210.16:7788
 223.247.25.235:1234
+ali-vl.cztv.com:80
+m3u8.channel.dzsm.com:443
+cm-wshls.homecdn.com:80
+rt-glb.rttv.com:443
+112.123.243.37:50085
