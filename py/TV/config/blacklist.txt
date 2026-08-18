@@ -34,3 +34,8 @@ zjtv-wshls.homecdn.com:80
 l.cztvcloud.com:443
 111.8.242.127:9999
 61.178.227.57:9901
+183.47.2.156:16883
+1yp7hc5p.live.sxmty.com:443
+cm-wshls.homecdn.com:80
+171.38.148.188:9003
+m3u8.channel.dzsm.com:443
