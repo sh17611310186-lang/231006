@@ -54,3 +54,8 @@ my9.ltd:443
 gcalic.v.myalicdn.com:443
 27.12.12.40:1234
 epg.pw:443
+183.237.95.108:9901
+live.spccmc.com:90
+104.152.209.49:8181
+stream.thmz.com:443
+139.227.21.22:9901
