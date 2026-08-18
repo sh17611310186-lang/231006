@@ -47,3 +47,8 @@ wildearth-plex.amagi.tv:443
 d1k6kax80wecy5.cloudfront.net:443
 171.8.86.73:8009
 my9.ltd:443
+120.198.95.220:9901
+111.59.24.227:8181
+118.193.115.2:9901
+1.192.153.44:9901
+gcalic.v.myalicdn.com:443
