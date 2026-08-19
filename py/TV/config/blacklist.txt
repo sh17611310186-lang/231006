@@ -53,3 +53,5 @@ my9.ltd:443
 play.scrstv.com.cn:443
 russian-livews.cgtn.com:80
 171.38.148.188:9003
+l.cztvcloud.com:443
+lbyzztfe.live.sxmty.com:80
