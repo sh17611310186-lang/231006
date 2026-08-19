@@ -55,3 +55,5 @@ russian-livews.cgtn.com:80
 171.38.148.188:9003
 l.cztvcloud.com:443
 lbyzztfe.live.sxmty.com:80
+112.27.5.218:9901
+shcm-stream-cf1.stream.264788.xyz:443
