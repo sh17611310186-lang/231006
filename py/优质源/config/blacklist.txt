@@ -153,3 +153,5 @@ gslbmgsplive.miguvideo.com
 shcm-stream-cf1.stream.264788.xyz
 116.236.204.18
 bp-resource-dfl.bestv.cn
+183.237.95.108
+zjtv-wshls.homecdn.com
