@@ -57,3 +57,4 @@ play.scrstv.com.cn:443
 l.cztvcloud.com:443
 cm-wshls.homecdn.com:80
 221.232.198.40:7777
+nmxlive.akamaized.net:80
