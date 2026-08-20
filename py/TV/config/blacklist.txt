@@ -29,3 +29,7 @@ cdn9.163189.xyz:80
 218.13.138.139:59901
 112.27.5.218:9901
 satellitepull.cnr.cn:443
+qmmqvzoz.live.sxmty.com:443
+222.169.85.8:9901
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
