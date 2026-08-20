@@ -54,3 +54,6 @@ tntgjhjb.live.sxmty.com:443
 play.scrstv.com.cn:443
 222.163.204.42:9003
 111.59.24.227:8181
+l.cztvcloud.com:443
+cm-wshls.homecdn.com:80
+221.232.198.40:7777
