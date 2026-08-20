@@ -18,3 +18,8 @@ iptv.4666888.xyz:80
 www.lwfz.fun:8800
 112.123.243.37:50085
 bp-resource-dfl.bestv.cn:80
+l.cztvcloud.com:443
+l2fpdktp.live.sxmty.com:443
+hzcm-live.media.hugd.com:80
+tpc.x3322.net:9901
+220.187.222.240:9901
