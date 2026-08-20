@@ -67,3 +67,4 @@ nmxlive.akamaized.net:80
 gmxw.7766.org:808
 106.57.0.153:55555
 171.122.199.106:8085
+tmpstream.hyrtv.cn:80
