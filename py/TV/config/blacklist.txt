@@ -31,3 +31,7 @@ dxtx.hntv.tv:443
 139.227.21.22:9901
 113.65.7.6:7088
 shcm-stream-cf1.stream.264788.xyz:443
+60.187.246.137:9901
+lbyzztfe.live.sxmty.com:80
+44911.hlsplay.aodianyun.com:443
+123.118.53.84:45237
