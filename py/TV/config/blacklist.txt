@@ -56,3 +56,5 @@ gmxw.7766.org:808
 118.254.148.47:4022
 live.ottiptv.cc:443
 live.xysrmt.cn:80
+120.238.84.45:9901
+tmpstream.hyrtv.cn:80
