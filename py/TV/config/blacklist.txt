@@ -17,3 +17,7 @@ www.lwfz.fun:8800
 genglei.8866.org:9901
 shcm-stream-cf1.stream.264788.xyz:443
 8.135.27.147:1234
+play.scrstv.com.cn:443
+39.87.249.126:8090
+221.205.61.95:9003
+tntgjhjb.live.sxmty.com:443
