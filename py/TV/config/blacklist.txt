@@ -35,3 +35,5 @@ shcm-stream-cf1.stream.264788.xyz:443
 lbyzztfe.live.sxmty.com:80
 44911.hlsplay.aodianyun.com:443
 123.118.53.84:45237
+123.118.55.165:45237
+112.27.5.218:9901
