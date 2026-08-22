@@ -62,3 +62,6 @@ p2.bdstatic.com:443
 221.226.51.220:50081
 101.81.77.3:9999
 goodiptv.club:443
+49.73.29.217:9999
+www.goodiptv.club:80
+cm-wshls.homecdn.com:80
