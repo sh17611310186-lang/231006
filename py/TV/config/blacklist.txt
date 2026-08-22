@@ -39,3 +39,6 @@ lbyzztfe.live.sxmty.com:80
 123.118.55.165:45237
 218.13.170.98:9901
 bp-resource-dfl.bestv.cn:80
+qmmqvzoz.live.sxmty.com:443
+111.8.224.6:9999
+112.123.243.37:50085
