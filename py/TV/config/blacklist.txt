@@ -78,3 +78,7 @@ m3u8.channel.dzsm.com:443
 183.11.239.36:808
 118.77.43.56:8085
 e2.woc.iiiya.cn:28888
+tmpstream.hyrtv.cn:80
+stream.thmz.com:443
+p2.vzan.com:443
+rt-glb.rttv.com:443
