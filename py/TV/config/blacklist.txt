@@ -65,3 +65,6 @@ goodiptv.club:443
 49.73.29.217:9999
 www.goodiptv.club:80
 cm-wshls.homecdn.com:80
+111.59.24.227:8181
+ls.qingting.fm:80
+112.115.49.181:4915
