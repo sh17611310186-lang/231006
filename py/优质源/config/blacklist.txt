@@ -166,3 +166,5 @@ live1.gatv.com.cn
 play.jinnantv.top
 42.231.221.33
 qmmqvzoz.live.sxmty.com
+218.13.138.139
+120.237.39.10
