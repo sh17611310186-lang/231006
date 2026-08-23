@@ -64,3 +64,6 @@ dxtx.hntv.tv:443
 cm-wshls.homecdn.com:80
 221.222.176.205:8888
 183.237.95.108:9901
+tmpstream.hyrtv.cn:80
+125.109.24.55:21318
+44911.hlsplay.aodianyun.com:443
