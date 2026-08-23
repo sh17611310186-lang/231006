@@ -45,3 +45,7 @@ shcm-stream-cf1.stream.264788.xyz:443
 222.169.85.8:9901
 118.254.148.47:4022
 zjtv-wshls.homecdn.com:80
+1yp7hc5p.live.sxmty.com:443
+112.123.243.37:50085
+61.178.227.57:9901
+cdn9.163189.xyz:80
