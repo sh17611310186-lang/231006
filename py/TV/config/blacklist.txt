@@ -55,3 +55,8 @@ bp-resource-dfl.bestv.cn:80
 hzcm-live.media.hugd.com:80
 l.cztvcloud.com:443
 gmxw.7766.org:808
+111.59.24.227:8181
+epg.pw:443
+119.166.53.110:9901
+112.249.75.196:9989
+112.27.5.218:9901
