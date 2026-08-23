@@ -35,3 +35,5 @@ ali-vl.cztv.com:80
 123.118.53.84:45237
 qmmqvzoz.live.sxmty.com:443
 play.scrstv.com.cn:443
+112.115.49.181:4915
+tpc.x3322.net:9901
