@@ -49,3 +49,6 @@ zjtv-wshls.homecdn.com:80
 112.123.243.37:50085
 61.178.227.57:9901
 cdn9.163189.xyz:80
+bp-resource-dfl.bestv.cn:443
+bztv.tvbus.cc:8081
+bp-resource-dfl.bestv.cn:80
