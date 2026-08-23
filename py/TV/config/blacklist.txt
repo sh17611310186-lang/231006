@@ -30,3 +30,7 @@ video.epaper.pybtv.cn:8080
 116.236.204.18:1234
 gslbmgsplive.miguvideo.com:80
 genglei.8866.org:9901
+123.118.53.84:45237
+cm-wshls.homecdn.com:80
+61.178.227.57:9901
+ali-vl.cztv.com:80
