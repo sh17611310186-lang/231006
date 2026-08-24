@@ -56,3 +56,6 @@ liveout.btzx.com.cn:443
 bp-resource-dfl.bestv.cn:80
 1yp7hc5p.live.sxmty.com:443
 l.cztvcloud.com:443
+123.118.55.165:45237
+222.169.85.8:9901
+stream.jmtv.com.cn:80
