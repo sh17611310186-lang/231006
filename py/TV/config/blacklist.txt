@@ -47,3 +47,12 @@ hzcm-live.media.hugd.com:80
 zjtv-wshls.homecdn.com:80
 27.39.122.2:9901
 epg.pw:443
+112.27.5.218:9901
+bp-resource-dfl.bestv.cn:443
+qmmqvzoz.live.sxmty.com:443
+223.78.65.165:9901
+111.59.24.227:8181
+liveout.btzx.com.cn:443
+bp-resource-dfl.bestv.cn:80
+1yp7hc5p.live.sxmty.com:443
+l.cztvcloud.com:443
