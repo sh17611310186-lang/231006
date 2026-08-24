@@ -59,3 +59,4 @@ l.cztvcloud.com:443
 123.118.55.165:45237
 222.169.85.8:9901
 stream.jmtv.com.cn:80
+www.wxhcgbds.com:8081
