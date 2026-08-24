@@ -42,3 +42,8 @@ lbyzztfe.live.sxmty.com:80
 222.71.55.147:9901
 116.230.54.58:33988
 hzcm-live.media.hugd.com:80
+112.115.49.181:4915
+182.150.115.21:8030
+zjtv-wshls.homecdn.com:80
+27.39.122.2:9901
+epg.pw:443
