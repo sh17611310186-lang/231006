@@ -71,3 +71,5 @@ cdn9.163189.xyz:80
 stream.thmz.com:443
 live.metshop.top:443
 36.24.201.56:4022
+tmpstream.hyrtv.cn:80
+live.xysrmt.cn:80
