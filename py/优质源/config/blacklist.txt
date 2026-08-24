@@ -108,3 +108,7 @@ p2.vzan.com
 113.120.243.10
 223.247.25.235
 42.94.210.16
+play.scrstv.com.cn
+bp-resource-dfl.bestv.cn
+rt-doc.rttv.com
+qmmqvzoz.live.sxmty.com
