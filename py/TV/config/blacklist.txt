@@ -50,3 +50,6 @@ bp-resource-dfl.bestv.cn:443
 60.222.246.220:19433
 39.87.249.126:8090
 shcm-stream-cf1.stream.264788.xyz:443
+stream.jmtv.com.cn:443
+gd202.tv1288.xyz:443
+218.13.138.139:59901
