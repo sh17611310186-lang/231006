@@ -79,3 +79,6 @@ rihou.cc:555
 118.254.148.47:4022
 101.81.77.3:9999
 live.gdtv.ah.cn:443
+p2hs.vzan.com:443
+p2.bdstatic.com:443
+rbmn-live.akamaized.net:80
