@@ -44,3 +44,7 @@ gslbmgsplive.miguvideo.com:80
 zjtv-wshls.homecdn.com:80
 cdn9.163189.xyz:80
 223.78.65.165:9901
+bp-resource-dfl.bestv.cn:80
+live.zohi.tv:80
+bp-resource-dfl.bestv.cn:443
+60.222.246.220:19433
