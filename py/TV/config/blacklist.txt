@@ -48,3 +48,5 @@ bp-resource-dfl.bestv.cn:80
 live.zohi.tv:80
 bp-resource-dfl.bestv.cn:443
 60.222.246.220:19433
+39.87.249.126:8090
+shcm-stream-cf1.stream.264788.xyz:443
