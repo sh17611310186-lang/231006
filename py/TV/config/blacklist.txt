@@ -23,3 +23,5 @@ genglei.8866.org:9901
 tvfile.jjrm.org.cn:80
 tv.drs.ganzitv.com:8100
 124.165.232.26:8085
+111.59.24.227:8181
+cm-wshls.homecdn.com:80
