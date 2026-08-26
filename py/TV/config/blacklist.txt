@@ -30,3 +30,8 @@ tntgjhjb.live.sxmty.com:443
 61.178.227.57:9901
 223.78.65.165:9901
 101.81.77.3:9999
+m3u8.channel.dzsm.com:443
+l2fpdktp.live.sxmty.com:443
+zjtv-wshls.homecdn.com:80
+live.xysrmt.cn:80
+1yp7hc5p.live.sxmty.com:443
