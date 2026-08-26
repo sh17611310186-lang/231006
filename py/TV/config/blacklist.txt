@@ -35,3 +35,4 @@ l2fpdktp.live.sxmty.com:443
 zjtv-wshls.homecdn.com:80
 live.xysrmt.cn:80
 1yp7hc5p.live.sxmty.com:443
+120.238.84.45:9901
