@@ -62,3 +62,5 @@ live-hls-web-aja.getaj.net:80
 222.169.85.8:9901
 124.165.232.26:8082
 tpc.x3322.net:9901
+liveout.btzx.com.cn:443
+shcm-stream-cf1.stream.264788.xyz:443
