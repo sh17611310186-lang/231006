@@ -40,3 +40,6 @@ live.xysrmt.cn:80
 qmmqvzoz.live.sxmty.com:443
 bztv.tvbus.cc:8081
 t.061899.xyz:80
+gd202.tv1288.xyz:443
+ali-vl.cztv.com:80
+play.scrstv.com.cn:443
