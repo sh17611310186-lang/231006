@@ -128,3 +128,6 @@ cm-wshls.homecdn.com
 113.90.154.189
 223.247.25.219
 110.154.192.81
+hzcm-live.media.hugd.com
+1yp7hc5p.live.sxmty.com
+31.43.191.125
