@@ -31,3 +31,5 @@ epg.pw:443
 tntgjhjb.live.sxmty.com:443
 play.scrstv.com.cn:443
 cm-wshls.homecdn.com:80
+31.43.191.125:8080
+my9.ltd:443
