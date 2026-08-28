@@ -33,3 +33,14 @@ play.scrstv.com.cn:443
 cm-wshls.homecdn.com:80
 31.43.191.125:8080
 my9.ltd:443
+101.81.77.3:9999
+113.120.243.10:7788
+42.94.210.16:7788
+117.63.79.182:1234
+110.154.192.81:7788
+116.52.173.172:1234
+gslbmgsplive.miguvideo.com:80
+zjtv-wshls.homecdn.com:80
+live.streamingfast.net:443
+223.247.25.219:1234
+27.12.12.174:1234
