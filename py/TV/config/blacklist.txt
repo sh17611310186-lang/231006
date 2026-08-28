@@ -44,3 +44,8 @@ zjtv-wshls.homecdn.com:80
 live.streamingfast.net:443
 223.247.25.219:1234
 27.12.12.174:1234
+1yp7hc5p.live.sxmty.com:443
+lbyzztfe.live.sxmty.com:80
+e2.woc.iiiya.cn:28888
+124.165.232.26:8083
+tpc.x3322.net:9901
