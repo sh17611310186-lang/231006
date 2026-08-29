@@ -52,3 +52,11 @@ tpc.x3322.net:9901
 cdn9.163189.xyz:80
 175.0.71.111:8888
 shcm-stream-cf1.stream.264788.xyz:443
+live.chinacert.cftest5.cn:443
+tencentplaybusiness.gztv.com:443
+l.cztvcloud.com:443
+myip.pdtvhd.com:443
+116.236.204.18:1234
+stream8.jlntv.cn:80
+tencentplay.gztv.com:443
+tencentplay.gztv.com:80
