@@ -136,3 +136,5 @@ stream5.jlntv.cn
 goodiptv.club
 ls.qingting.fm
 222.130.32.241
+59.110.175.70
+hls.gstv.com.cn
