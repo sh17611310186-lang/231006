@@ -103,3 +103,5 @@ ottproxy2.ist.ooo:80
 v3.mediacast.hk:443
 222.169.85.8:9901
 hls.cntv.lxdns.com:443
+59.110.175.70:10000
+183.237.95.108:9901
