@@ -144,3 +144,8 @@ hls.gstv.com.cn
 m3u8channel-bx.yunxya.com
 207.56.13.146
 epg.pw
+alimov2.a.kwimgs.com
+ali-vl.cztv.com
+61.216.67.119
+38.64.72.148
+112.30.73.119
