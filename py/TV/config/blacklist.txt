@@ -112,3 +112,5 @@ hls.cntv.lxdns.com:443
 p2.bdstatic.com:443
 39.87.249.126:8090
 58.56.162.102:4466
+5ddce30eb4b55.streamlock.net:443
+61.216.67.119:1935
