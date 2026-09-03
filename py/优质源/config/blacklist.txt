@@ -153,3 +153,6 @@ ali-vl.cztv.com
 218.84.127.245
 31.43.191.125
 124.228.160.210
+gcalic.v.myalicdn.com
+91.247.68.229
+play.scrstv.com.cn
