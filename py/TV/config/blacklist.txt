@@ -119,3 +119,5 @@ p2.bdstatic.com:443
 112.30.73.119:9901
 nklive.nbs.cn:80
 p2.ioioz.com:80
+123.130.84.106:8154
+hslive.hsnewsnet.com:80
