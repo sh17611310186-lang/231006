@@ -94,3 +94,8 @@ bxtv.3a.ink
 nhkwlive-ojp.akamaized.net
 106.53.99.30
 91.247.68.229
+cdn9.163189.xyz
+lbds.us.ci
+l.cztvcloud.com
+223.78.65.165
+111.231.6.102
