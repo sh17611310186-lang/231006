@@ -103,3 +103,7 @@ stream.sun0769.com
 cm-wshls.homecdn.com
 60.168.105.200
 198.204.228.26
+8.138.7.223
+m3u8.channel.dzsm.com
+124.228.160.210
+zjtv-wshls.homecdn.com
