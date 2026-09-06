@@ -115,3 +115,6 @@ hzcm-live.media.hugd.com
 dxtx.hntv.tv
 116.52.173.236
 110.154.192.90
+live.ottiptv.cc
+r.jdshipin.com
+hwapi.yntv.net
