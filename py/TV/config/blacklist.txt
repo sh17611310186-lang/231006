@@ -160,3 +160,6 @@ p2hs.vzan.com:443
 182.114.48.115:9901
 183.64.174.171:40123
 222.92.158.109:9889
+goodiptv.club:443
+live.ottiptv.cc:443
+rt-doc.rttv.com:443
