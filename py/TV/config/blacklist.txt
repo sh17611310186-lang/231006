@@ -163,3 +163,5 @@ p2hs.vzan.com:443
 goodiptv.club:443
 live.ottiptv.cc:443
 rt-doc.rttv.com:443
+111.231.6.102:1234
+223.247.25.228:1234
