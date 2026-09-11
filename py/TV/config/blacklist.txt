@@ -169,3 +169,5 @@ live.xysrmt.cn:80
 125.42.148.178:9901
 r.jdshipin.com:80
 live.spccmc.com:90
+stream.sun0769.com:443
+116.52.173.223:1234
