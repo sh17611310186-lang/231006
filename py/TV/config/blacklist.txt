@@ -167,3 +167,5 @@ rt-doc.rttv.com:443
 223.247.25.228:1234
 live.xysrmt.cn:80
 125.42.148.178:9901
+r.jdshipin.com:80
+live.spccmc.com:90
