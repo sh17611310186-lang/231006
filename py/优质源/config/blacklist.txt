@@ -108,3 +108,8 @@ m3u8.channel.dzsm.com
 lbds.us.ci
 27.12.12.92
 101.66.198.251
+hslive.hsnewsnet.com
+tylive.kan0512.com
+zjtv-wshls.homecdn.com
+r.jdshipin.com
+dxtx.hntv.tv
