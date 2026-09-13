@@ -178,3 +178,4 @@ tylive.kan0512.com:443
 42.94.210.135:7788
 27.12.12.57:1234
 ls.qingting.fm:80
+ali-m-l.cztv.com:443
