@@ -181,3 +181,7 @@ ls.qingting.fm:80
 ali-m-l.cztv.com:443
 223.247.25.200:1234
 satellitepull.cnr.cn:443
+115.215.11.61:50000
+101.66.198.81:9901
+123.149.163.24:9901
+test1.live.sdetv.com.cn:443
