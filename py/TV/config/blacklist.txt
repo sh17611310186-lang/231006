@@ -180,3 +180,4 @@ tylive.kan0512.com:443
 ls.qingting.fm:80
 ali-m-l.cztv.com:443
 223.247.25.200:1234
+satellitepull.cnr.cn:443
