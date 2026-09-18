@@ -106,3 +106,8 @@ gcalic.v.myalicdn.com
 223.247.25.200
 l.cztvcloud.com
 111.231.6.102
+m3u8.channel.dzsm.com
+gslbmgsplive.miguvideo.com
+r.jdshipin.com
+dxtx.hntv.tv
+cdn9.163189.xyz
