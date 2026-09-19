@@ -122,3 +122,8 @@ live.ahsz.tv
 222.169.85.8
 stream8.jlntv.cn
 hls.ningxiahuangheyun.com
+111.76.19.227
+live.spccmc.com
+8.138.7.223
+lbyzztfe.live.sxmty.com
+44911.hlsplay.aodianyun.com
