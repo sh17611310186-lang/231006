@@ -201,3 +201,5 @@ dassby.qqff.top:99
 222.140.52.11:1234
 gcalic.v.myalicdn.com:443
 www.goodiptv.club:80
+111.76.19.218:1234
+play.yunxya.com:443
