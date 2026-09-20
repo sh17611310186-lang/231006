@@ -200,3 +200,4 @@ hkstv.tv:443
 dassby.qqff.top:99
 222.140.52.11:1234
 gcalic.v.myalicdn.com:443
+www.goodiptv.club:80
