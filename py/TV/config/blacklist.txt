@@ -208,3 +208,4 @@ hlsal-ldvt.qing.mgtv.com:80
 piccpndks.v.kcdnvip.com:443
 play.jinnantv.top:80
 101.66.194.205:9901
+m3u8channel.ganzitv.com:443
