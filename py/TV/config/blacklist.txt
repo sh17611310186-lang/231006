@@ -218,3 +218,5 @@ live.wjyanghu.com:80
 219.157.138.96:1234
 112.11.122.190:58503
 153.0.171.163:9901
+l.cztvcloud.com:80
+live.daningtv.com:80
