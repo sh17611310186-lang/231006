@@ -220,3 +220,10 @@ live.wjyanghu.com:80
 153.0.171.163:9901
 l.cztvcloud.com:80
 live.daningtv.com:80
+rt-ger.rttv.com:443
+rt-arb.rttv.com:443
+rt-esp.rttv.com:443
+rt-srb.rttv.com:443
+rt-glb.rttv.com:443
+rt-rtd.rttv.com:443
+rt-fra.rttv.com:443
