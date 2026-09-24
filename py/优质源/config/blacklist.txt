@@ -114,3 +114,8 @@ live.chinacert.cftest5.cn
 play.yunxya.com
 gslbmgsplive.miguvideo.com
 zjtv-wshls.homecdn.com
+play.scrstv.com.cn
+ali-vl.cztv.com
+112.27.5.218
+ali.hlspull.yximgs.com
+121.204.118.36
