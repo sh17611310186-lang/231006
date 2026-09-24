@@ -227,3 +227,5 @@ rt-srb.rttv.com:443
 rt-glb.rttv.com:443
 rt-rtd.rttv.com:443
 rt-fra.rttv.com:443
+61.10.2.145:80
+101.66.194.117:9901
