@@ -119,3 +119,4 @@ ali-vl.cztv.com
 112.27.5.218
 ali.hlspull.yximgs.com
 121.204.118.36
+epg.pw
