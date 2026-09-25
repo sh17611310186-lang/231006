@@ -120,3 +120,7 @@ ali-vl.cztv.com
 ali.hlspull.yximgs.com
 121.204.118.36
 epg.pw
+112.11.122.190
+jsmov2.a.yximgs.com
+stream.appwuhan.com
+183.237.95.108
