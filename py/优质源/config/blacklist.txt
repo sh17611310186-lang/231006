@@ -126,3 +126,8 @@ stream.appwuhan.com
 183.237.95.108
 bp-resource-dfl.bestv.cn
 27.36.92.29
+live.metshop.top
+101.66.194.125
+hls.ningxiahuangheyun.com
+m3u8channel.yunxya.com
+112.30.73.119
