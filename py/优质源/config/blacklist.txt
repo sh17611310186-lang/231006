@@ -133,3 +133,5 @@ m3u8channel.yunxya.com
 112.30.73.119
 live.wjyanghu.com
 txmov2.a.kwimgs.com
+103.236.77.205
+tntgjhjb.live.sxmty.com
