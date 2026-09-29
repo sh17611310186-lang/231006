@@ -90,3 +90,10 @@ m3u8file.lstv.org.cn
 175.8.28.207
 live.zhgbtv.cn
 e2.woc.iiiya.cn
+222.169.85.8
+112.46.105.20
+rt-ger.rttv.com
+tmpstream.hyrtv.cn
+jwcdnqx.hebyun.com.cn
+8.138.7.223
+gcalic.v.myalicdn.com
