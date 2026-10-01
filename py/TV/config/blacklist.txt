@@ -245,3 +245,4 @@ live.wjyanghu.com:443
 ythls.armelin.one:443
 112.109.218.254:32
 stream.jinjiang.tv:80
+1.24.221.16:7788
