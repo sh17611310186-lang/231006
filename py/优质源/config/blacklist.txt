@@ -118,3 +118,6 @@ cdn8.163189.xyz
 r.jdshipin.com
 i.mjh.nz
 newcntv.qcloudcdn.com
+222.179.42.129
+zjtv-wshls.homecdn.com
+live.jinchuanrmt.com
