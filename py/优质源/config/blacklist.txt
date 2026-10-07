@@ -108,3 +108,7 @@ bp-resource-dfl.bestv.cn
 jrlive.jrntv.com
 hkstv.tv
 183.237.95.108
+newcntv.qcloudcdn.com
+hls.gstv.com.cn
+dassby.qqff.top
+zjtv-wshls.homecdn.com
