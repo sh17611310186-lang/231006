@@ -258,3 +258,4 @@ smzb.bypbwxx.top:80
 118.113.40.32:1234
 live.ottiptv.cc:80
 drive.mxmy.net:8888
+118.113.40.13:1234
