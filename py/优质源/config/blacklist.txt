@@ -112,3 +112,8 @@ newcntv.qcloudcdn.com
 hls.gstv.com.cn
 dassby.qqff.top
 zjtv-wshls.homecdn.com
+stream.sun0769.com
+222.169.85.8
+m3u8.channel.dzsm.com
+lbyzztfe.live.sxmty.com
+l2fpdktp.live.sxmty.com
