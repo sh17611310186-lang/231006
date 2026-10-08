@@ -117,3 +117,6 @@ stream.sun0769.com
 m3u8.channel.dzsm.com
 lbyzztfe.live.sxmty.com
 l2fpdktp.live.sxmty.com
+tvfile.lzgbdst.com
+txmov2.a.kwimgs.com
+p2.ioioz.com
